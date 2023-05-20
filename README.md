@@ -10,7 +10,7 @@ Kneser-Ney smoothing and Witten-Bell smoothing on "Pride and Prejudice" and "Uly
 ### a) Witten Bell
 - It is run by using the command: 'python3 language_model.py w ./Ulysses-JamesJoyce.txt'
 - After the training is done, it will show 'trained'
-- After that, it will ask for input sentence. YOu can then add your input sentence
+- After that, it will ask for input sentence. Enter input sentence after that.
 - It will output its probability and perplexity
 ### a) Kneser Ney
 - It is run by using the command: 'python3 language_model.py k ./Ulysses-JamesJoyce.txt'
