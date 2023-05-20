@@ -1,0 +1,1001 @@
+109.59482480400595
+ cannot deny the fact </s>	12.915496650148839
+<s> not all that mrs </s>	46.415888336127786
+<s> the rooms were <UNK> and handsome <UNK> and their furniture <UNK> to the fortune of their <UNK> <UNK> but elizabeth saw <UNK> with admiration of his taste <UNK> that it was neither <UNK> nor <UNK> fine <UNK> with less of <UNK> <UNK> and more real elegance <UNK> than the furniture of rosings </s>	1.53174046370208
+<s> bennet <UNK> <UNK> is very unlucky </s>	17.78279410038923
+<s> bennet saw that her whole heart was in the subject <UNK> and <UNK> taking her hand <UNK> said in reply <UNK> <UNK> not make yourself uneasy <UNK> my love </s>	2.1017480113324885
+<s> i am not equal to it </s>	17.78279410038923
+<s> bingley must be down again in the summer </s>	10.000000000000002
+<s> i do not know any body who seems more to enjoy the power of doing what he likes than mr </s>	2.848035868435802
+<s> <UNK> <UNK> is the only point <UNK> i flatter myself <UNK> on which we do not agree </s>	3.3598182862837818
+<s> but here he was set right by mrs </s>	10.000000000000002
+<s> elizabeth <UNK> though she did not credit above half of what was said <UNK> believed enough to make her former assurance of her sister <UNK> <UNK> still more certain <UNK> and even jane <UNK> who believed still less of it <UNK> became almost hopeless <UNK> more especially as the time was now come <UNK> when if they had gone to scotland <UNK> which she had never before entirely <UNK> of <UNK> they must in all probability have gained some news of them </s>	1.3153690504363762
+<s> bennet <UNK> up the hint <UNK> and trusted that she might soon have two daughters married <UNK> and the man whom she could not bear to speak of the day before <UNK> was now high in her good <UNK> </s>	1.7534865500829584
+<s> darcy often acknowledged himself to be under the greatest <UNK> to my father <UNK> active <UNK> <UNK> and when immediately before my father <UNK> death <UNK> mr </s>	2.212216291070449
+<s> between elizabeth and charlotte there was a <UNK> which kept them <UNK> silent on the subject <UNK> and elizabeth felt persuaded that no real confidence could ever <UNK> between them again </s>	2.0092330025650473
+<s> <UNK> do not pretend to regret any thing i shall leave in hertfordshire <UNK> except your society <UNK> my dearest friend <UNK> but we will hope at some future period <UNK> to enjoy many <UNK> of the delightful intercourse we have known <UNK> and in the mean while may <UNK> the pain of separation by a very frequent and most <UNK> <UNK> </s>	1.4330125702369627
+<s> <UNK> jane herself <UNK> she exclaimed <UNK> <UNK> could be no possibility of objection </s>	4.216965034285822
+<s> perhaps other people have said so before <UNK> but not one with such justice </s>	4.216965034285822
+<s> <UNK> <UNK> <UNK> i believe <UNK> he is very much what he ever was </s>	4.216965034285822
+<s> bennet was not of a disposition to seek comfort for the disappointment which his own imprudence had brought on <UNK> in any of those pleasures which too often console the unfortunate for their folly or their <UNK> </s>	1.8047217668271704
+<s> <UNK> mrs </s>	316.22776601683796
+<s> collins received and returned these <UNK> with equal pleasure <UNK> and then proceeded to relate the particulars of their <UNK> <UNK> with the <UNK> of which he trusted he had every reason to be satisfied <UNK> since the refusal which his cousin had <UNK> given him would naturally <UNK> from her <UNK> modesty and the <UNK> delicacy of her character </s>	1.4497406703726319
+<s> <UNK> but of this answer lydia heard not a word </s>	6.812920690579612
+<s> two of her girls had been on the point of marriage <UNK> and after all there was nothing in it </s>	2.848035868435802
+<s> <UNK> <UNK> easy distance do you call it <UNK> it is nearly fifty miles </s>	4.216965034285822
+<s> such were the <UNK> <UNK> of mrs </s>	12.915496650148839
+<s> had elizabeth been able to <UNK> his eye <UNK> she might have seen how well the expression of heart felt delight <UNK> <UNK> over his face <UNK> became him <UNK> but <UNK> though she could not look <UNK> she could listen <UNK> and he told her of feelings <UNK> which <UNK> in <UNK> of what importance she was to him <UNK> made his affection every moment more valuable </s>	1.3894954943731377
+<s> though he had <UNK> with a <UNK> eye more than one <UNK> of perfect <UNK> in her form <UNK> he was forced to acknowledge her figure to be light and pleasing <UNK> and in spite of his <UNK> that her manners were not those of the <UNK> world <UNK> he was caught by their easy <UNK> </s>	1.4873521072935114
+<s> many <UNK> </s>	316.22776601683796
+<s> but think no more of the letter </s>	12.915496650148839
+<s> mrs </s>	2154.4346900318833
+<s> <UNK> <UNK> was never more surprised than by his behaviour to us </s>	5.179474679231211
+<s> <UNK> chapter <UNK> </s>	100.00000000000004
+<s> <UNK> him laugh at him </s>	26.826957952797255
+<s> when i last saw her <UNK> she was not very <UNK> </s>	5.878016072274913
+<s> my friend has an excellent understanding though i am not certain that i consider her marrying mr </s>	3.3598182862837818
+<s> if it be so <UNK> if i have been <UNK> by such error <UNK> to <UNK> pain on her <UNK> your resentment has not been unreasonable </s>	2.2758459260747883
+<s> <UNK> is only <UNK> in such matters as these </s>	8.111308307896872
+<s> you see how continually we are engaged there </s>	10.000000000000002
+<s> <UNK> <UNK> will go as far as meryton with you <UNK> said catherine and lydia </s>	3.874675120456131
+<s> elizabeth went away with her head full of him </s>	8.111308307896872
+<s> collins <UNK> i think </s>	46.415888336127786
+<s> after sitting a few minutes <UNK> they were all sent to one of the windows <UNK> to admire the view <UNK> mr </s>	2.610157215682537
+<s> <UNK> it be possible that he will marry her <UNK> <UNK> is not so <UNK> <UNK> then <UNK> as we have thought him <UNK> said her sister </s>	2.212216291070449
+<s> every body is <UNK> with his pride </s>	12.915496650148839
+<s> <UNK> <UNK> ideas <UNK> so <UNK> that i have not time to express them by which means my letters sometimes <UNK> no ideas at all to my <UNK> </s>	2.154434690031884
+<s> came on into hertfordshire <UNK> <UNK> <UNK> them at all the <UNK> <UNK> and at the <UNK> in <UNK> and <UNK> <UNK> but without any success <UNK> no such people had been seen to pass through </s>	1.8329807108324359
+<s> the next <UNK> which their visit <UNK> was produced by the entrance of servants with cold <UNK> <UNK> <UNK> <UNK> and a variety of all the <UNK> <UNK> in <UNK> <UNK> but this did not take place till after many a <UNK> look and smile from mrs </s>	1.599858719606058
+<s> bingley <UNK> <UNK> i am sure it will be too much for kitty </s>	4.641588833612779
+<s> <UNK> am sorry to hear _that_ <UNK> but why did not you tell me so before <UNK> if i had known as much this morning <UNK> i certainly would not have called on him </s>	1.8957356524063758
+<s> collins <UNK> admiration </s>	100.00000000000004
+<s> bingley <UNK> attentions to her sister <UNK> elizabeth was far from <UNK> that she was herself <UNK> an object of some interest in the eyes of his friend </s>	2.154434690031884
+<s> his sense of her <UNK> of its being a <UNK> of the family <UNK> which judgment had always <UNK> to inclination <UNK> were <UNK> on with a warmth which seemed due to the consequence he was <UNK> <UNK> but was very <UNK> to recommend his suit </s>	1.615598098439874
+<s> jenkinson was chiefly employed in watching how little miss de bourgh <UNK> <UNK> <UNK> her to try some other <UNK> <UNK> and <UNK> she were <UNK> </s>	2.2758459260747883
+<s> bennet <UNK> who had <UNK> on her daughters remaining at netherfield till the following tuesday <UNK> which would exactly <UNK> jane <UNK> week <UNK> could not bring herself to receive them with pleasure before </s>	1.8957356524063758
+<s> that reply will do for the present </s>	12.915496650148839
+<s> bennet <UNK> visit <UNK> and <UNK> when they should ask him to dinner </s>	4.641588833612779
+<s> kitty <UNK> at him <UNK> and lydia exclaimed </s>	10.000000000000002
+<s> darcy <UNK> it must have been a most agreeable surprise to mr </s>	5.179474679231211
+<s> <UNK> <UNK> on in this <UNK> manner <UNK> they were again surprised <UNK> and elizabeth <UNK> astonishment was quite equal to what it had been at first <UNK> by the sight of mr </s>	1.93069772888325
+<s> i saw them the night before last </s>	12.915496650148839
+<s> the <UNK> continued the whole evening without <UNK> <UNK> jane certainly could not come back </s>	3.874675120456131
+<s> in the hall they parted </s>	26.826957952797255
+<s> they are in the same profession <UNK> you know <UNK> only in different lines </s>	4.216965034285822
+<s> <UNK> she then spoke of the letter <UNK> repeating the whole of its contents as far as they concerned george wickham </s>	2.7213387683753076
+<s> bennet <UNK> have you no more <UNK> <UNK> in which lizzy may lose her way again to day <UNK> <UNK> advise mr </s>	2.610157215682537
+<s> but <UNK> your concern for the defects of your <UNK> relations <UNK> and your displeasure at this <UNK> of them <UNK> let it give you consolation to consider that <UNK> to have <UNK> <UNK> so as to avoid any share of the like <UNK> <UNK> is praise no less generally bestowed on you and your eldest sister <UNK> than it is honourable to the sense and disposition of both </s>	1.3830728955554412
+<s> i do not believe she often sees such at home </s>	6.812920690579612
+<s> f </s>	2154.4346900318833
+<s> <UNK> will join me early to morrow <UNK> he continued <UNK> <UNK> among them are some who will claim an acquaintance with you <UNK> mr </s>	2.346228848142263
+<s> denny and mr </s>	100.00000000000004
+<s> <UNK> mr </s>	316.22776601683796
+<s> she tried <UNK> however <UNK> to <UNK> herself to answer him with patience <UNK> when he should have done </s>	2.99357729472049
+<s> <UNK> then turning to mr </s>	26.826957952797255
+<s> bennet should only hear of the departure of the family <UNK> without being alarmed on the <UNK> of the gentleman <UNK> conduct <UNK> but even this partial communication gave her a great deal of concern <UNK> and she <UNK> it as exceedingly unlucky that the ladies should happen to go away <UNK> just as they were all getting so intimate together </s>	1.4412195967188537
+<s> they will then join his regiment <UNK> unless they are first invited to longbourn <UNK> and i understand from mrs </s>	2.848035868435802
+<s> she had a sister married to a mr </s>	10.000000000000002
+<s> she did not fear her father <UNK> <UNK> <UNK> but he was going to be made unhappy <UNK> and that it should be through her means <UNK> that _she_ <UNK> his favourite child <UNK> should be distressing him by her choice <UNK> should be <UNK> him with fears and <UNK> in <UNK> of her <UNK> was a wretched reflection <UNK> and she sat in misery till mr </s>	1.396135390856794
+<s> what he means to do <UNK> i am sure i know not <UNK> but his <UNK> distress will not allow him to pursue any <UNK> in the best and <UNK> way <UNK> and colonel forster is obliged to be at brighton again to morrow evening </s>	1.632172128563275
+<s> bennet had time to tell him of their having seen his aunt <UNK> of which her daughter sat in <UNK> <UNK> <UNK> bingley <UNK> who wanted to be alone with jane <UNK> <UNK> their all walking out </s>	1.8047217668271704
+<s> i believe i have now told you every thing </s>	8.111308307896872
+<s> consider how important every moment is <UNK> in such a case </s>	5.878016072274913
+<s> <UNK> have found out <UNK> said he <UNK> <UNK> a <UNK> <UNK> <UNK> that there is now in the room a near relation of my patroness </s>	2.2758459260747883
+<s> <UNK> <UNK> dare say you believed it <UNK> but i am by no means convinced that you would be gone with such <UNK> </s>	2.51188643150958
+<s> bennet <UNK> said she <UNK> <UNK> is very hard to think that charlotte lucas should ever be mistress of this house <UNK> that i should be forced to make way for _her_ <UNK> and live to see her take my place in it <UNK> <UNK> dear <UNK> do not give way to such <UNK> thoughts </s>	1.4977474763452012
+<s> my dear <UNK> dear lydia <UNK> how <UNK> we shall be together when we meet <UNK> her eldest daughter endeavoured to give some relief to the <UNK> of these <UNK> <UNK> by <UNK> her thoughts to the <UNK> which mr </s>	1.7301957388458942
+<s> darcy could not have </s>	46.415888336127786
+<s> collins will be very glad of your company <UNK> i am sure </s>	5.179474679231211
+<s> collins <UNK> in <UNK> observed <UNK> <UNK> <UNK> miss elizabeth <UNK> you will have the honour of seeing lady catherine de bourgh on the <UNK> sunday at church <UNK> and i need not say you will be delighted with her </s>	1.7301957388458942
+<s> wickham </s>	2154.4346900318833
+<s> i write without any intention of <UNK> you <UNK> or <UNK> myself <UNK> by dwelling on wishes <UNK> which <UNK> for the happiness of both <UNK> cannot be too soon forgotten <UNK> and the effort which the <UNK> <UNK> and the <UNK> of this letter must occasion <UNK> should have been spared <UNK> had not my character required it to be written and read </s>	1.4174741629268053
+<s> you mentioned <UNK> <UNK> </s>	46.415888336127786
+<s> this unfortunate affair will <UNK> i fear <UNK> prevent my sister <UNK> having the pleasure of seeing you at pemberley to day </s>	2.610157215682537
+<s> darcy <UNK> was one of the best men that ever <UNK> <UNK> and the <UNK> friend i ever had <UNK> and i can never be in company with this mr </s>	2.0535250264571463
+<s> lydia left a few lines for his wife <UNK> <UNK> her of their intention </s>	4.216965034285822
+<s> <UNK> he wants our society <UNK> let him seek it </s>	6.812920690579612
+<s> with no expectation of pleasure <UNK> but with the <UNK> curiosity <UNK> elizabeth opened the letter <UNK> and to her still increasing wonder <UNK> perceived an <UNK> <UNK> two <UNK> of letter paper <UNK> written quite through <UNK> in a very close hand </s>	1.6681005372000588
+<s> let the other young ladies have time to <UNK> </s>	8.111308307896872
+<s> i must find mr </s>	46.415888336127786
+<s> darcy <UNK> behaviour astonished and vexed her </s>	12.915496650148839
+<s> but now several minutes <UNK> <UNK> without bringing the sound of his voice <UNK> and when occasionally <UNK> unable to <UNK> the <UNK> of curiosity <UNK> she raised her eyes to his face <UNK> she as often found him looking at jane <UNK> as at herself <UNK> and frequently on no object but the ground </s>	1.4977474763452012
+<s> my temper would perhaps be called <UNK> </s>	12.915496650148839
+<s> a <UNK> <UNK> of <UNK> <UNK> his features <UNK> but he said not a word <UNK> and elizabeth <UNK> though <UNK> herself for her own <UNK> <UNK> could not go on </s>	2.0092330025650473
+<s> <UNK> <UNK> out <UNK> said mrs </s>	17.78279410038923
+<s> there could be no conversation in the <UNK> of mrs </s>	6.812920690579612
+<s> if he is satisfied with only <UNK> me <UNK> when he might have <UNK> my <UNK> and hand <UNK> i shall soon <UNK> to regret him at all </s>	2.154434690031884
+<s> _i_ talked about the dance <UNK> and _you_ ought to make some kind of <UNK> on the <UNK> of the room <UNK> or the number of <UNK> </s>	2.212216291070449
+<s> did you ever hear darcy mention the circumstance <UNK> when you were in kent <UNK> <UNK> <UNK> heard from authority <UNK> which i thought <UNK> <UNK> <UNK> that it was left you <UNK> only <UNK> and at the will of the present <UNK> </s>	1.6681005372000588
+<s> in the first place <UNK> she <UNK> in <UNK> the whole of the matter <UNK> <UNK> <UNK> she was very sure that mr </s>	2.51188643150958
+<s> darcy <UNK> elizabeth coloured <UNK> and said <UNK> little </s>	8.111308307896872
+<s> mr </s>	2154.4346900318833
+<s> at night she opened her heart to jane </s>	10.000000000000002
+<s> <UNK> elizabeth listened <UNK> wondered <UNK> doubted <UNK> and was impatient for more </s>	4.641588833612779
+<s> on the following morning he <UNK> to rosings to pay his respects </s>	5.179474679231211
+<s> the manner in which they spoke of the meryton assembly was <UNK> <UNK> </s>	4.641588833612779
+<s> the advice was followed readily <UNK> for the <UNK> <UNK> increased <UNK> and her head <UNK> <UNK> </s>	3.3598182862837818
+<s> <UNK> <UNK> not <UNK> at first </s>	17.78279410038923
+<s> do not <UNK> yourself <UNK> or endeavour to <UNK> him in an affection which the want of fortune would make so very imprudent </s>	2.51188643150958
+<s> it was an <UNK> subject <UNK> and mrs </s>	10.000000000000002
+<s> <UNK> <UNK> with some families <UNK> i believe we were <UNK> but such of us as wished to learn <UNK> never wanted the means </s>	2.4244620170823286
+<s> pemberley was now georgiana <UNK> home <UNK> and the attachment of the sisters was exactly what darcy had hoped to see </s>	2.7213387683753076
+<s> could he expect that her friends would not step forward <UNK> could he expect to be noticed again by the regiment <UNK> after such an <UNK> to colonel forster <UNK> his temptation is not <UNK> to the <UNK> </s>	1.778279410038923
+<s> <UNK> <UNK> am sure i shall <UNK> <UNK> <UNK> said lydia </s>	5.878016072274913
+<s> the project gutenberg literary archive foundation <UNK> foundation <UNK> or <UNK> <UNK> <UNK> a <UNK> copyright in the collection of project gutenberg tm electronic works </s>	2.346228848142263
+<s> collins <UNK> return into hertfordshire was no longer a matter of pleasure to mrs </s>	4.216965034285822
+<s> darcy invite him <UNK> with the greatest civility <UNK> to <UNK> there as often as he chose <UNK> while he continued in the neighbourhood <UNK> <UNK> at the same time to supply him with <UNK> <UNK> <UNK> and <UNK> out those <UNK> of the <UNK> where there was usually most <UNK> </s>	1.5441135899948315
+<s> the looks and behaviour of every body they had seen were <UNK> <UNK> except of the person who had <UNK> engaged their attention </s>	2.51188643150958
+<s> <UNK> heaven <UNK> can it be really so <UNK> yet now i must believe you <UNK> cried jane </s>	3.1622776601683795
+<s> that lady i suppose is your mother </s>	12.915496650148839
+<s> <UNK> <UNK> should like balls <UNK> better <UNK> she replied <UNK> <UNK> they were carried on in a different manner <UNK> but there is something <UNK> <UNK> in the usual <UNK> of such a meeting </s>	1.8632463119315603
+<s> the <UNK> of neglect and mistaken indulgence towards such a girl </s>	5.878016072274913
+<s> <UNK> <UNK> should be <UNK> marked as such and sent to the project gutenberg literary archive foundation at the address <UNK> in section <UNK> <UNK> <UNK> about donations to the project gutenberg literary archive foundation </s>	1.8632463119315603
+<s> <UNK> <UNK> point of <UNK> <UNK> said mary <UNK> <UNK> letter does not seem <UNK> </s>	3.874675120456131
+<s> <UNK> <UNK> <UNK> my dear <UNK> you must indeed go and see mr </s>	4.641588833612779
+<s> he had entertained hopes of being admitted to a sight of the young ladies <UNK> of whose beauty he had heard much <UNK> but he saw only the father </s>	2.1017480113324885
+<s> bingley in consequence of it <UNK> before <UNK> did </s>	8.111308307896872
+<s> bennet had no more to say <UNK> and lady lucas <UNK> who had been long <UNK> at the <UNK> of <UNK> which she saw no <UNK> of <UNK> <UNK> was left to the <UNK> of cold <UNK> and <UNK> </s>	1.7534865500829584
+<s> she is up stairs <UNK> and will have great satisfaction in seeing you all </s>	4.216965034285822
+<s> <UNK> <UNK> had not thought mr </s>	17.78279410038923
+<s> we were married <UNK> you know <UNK> at st </s>	8.111308307896872
+<s> when a woman has five <UNK> up daughters <UNK> she ought to give over thinking of her own beauty </s>	2.99357729472049
+<s> when first mr </s>	100.00000000000004
+<s> <UNK> <UNK> think you said she was a <UNK> <UNK> sir <UNK> has she any family <UNK> <UNK> has one only daughter <UNK> the <UNK> of rosings <UNK> and of very <UNK> property </s>	1.93069772888325
+<s> after <UNK> their sisters <UNK> they <UNK> <UNK> a table set out with such cold <UNK> as an inn <UNK> usually <UNK> <UNK> <UNK> <UNK> <UNK> not this <UNK> <UNK> is not this an agreeable surprise <UNK> <UNK> we mean to <UNK> you all <UNK> added lydia <UNK> <UNK> you must <UNK> us the money <UNK> for we have just spent <UNK> at the shop out there </s>	1.396135390856794
+<s> how shall we <UNK> him for such a speech <UNK> <UNK> so easy <UNK> if you have but the inclination <UNK> said elizabeth </s>	2.51188643150958
+<s> with the gardiners <UNK> they were always on the most intimate terms </s>	5.179474679231211
+<s> that among his own connections he was esteemed and <UNK> that even wickham had allowed him merit as a brother <UNK> and that she had often heard him speak so <UNK> of his sister as to prove him capable of <UNK> amiable feeling </s>	1.6681005372000588
+<s> the project gutenberg ebook <UNK> pride and prejudice <UNK> by jane <UNK> <UNK> <UNK> by <UNK> </s>	3.593813663804627
+<s> can i speak <UNK> <UNK> do not consider me now as an elegant female intending to <UNK> you <UNK> but as a rational creature speaking the truth from her heart </s>	2.0535250264571463
+<s> she could only imagine however at last <UNK> that she drew his notice because there was a something about her more wrong and <UNK> <UNK> according to his ideas of right <UNK> than in any other person present </s>	1.778279410038923
+<s> the chief of every day was spent by him at lucas lodge <UNK> and he sometimes returned to longbourn only in time to make an apology for his absence before the family went to bed </s>	1.8632463119315603
+<s> <UNK> is wholly unexpected </s>	46.415888336127786
+<s> darcy </s>	2154.4346900318833
+<s> <UNK> and <UNK> her work together <UNK> she was <UNK> away <UNK> when elizabeth called out <UNK> <UNK> ma <UNK> <UNK> do not go </s>	2.4244620170823286
+<s> you shall not <UNK> her <UNK> though it is charlotte lucas </s>	5.878016072274913
+<s> darcy <UNK> and mr </s>	46.415888336127786
+<s> <UNK> assure you <UNK> i feel it exceedingly <UNK> said lady catherine <UNK> <UNK> believe nobody <UNK> the loss of friends so much as i do </s>	2.2758459260747883
+<s> on entering the drawing room she found the whole party at <UNK> <UNK> and was immediately invited to join them <UNK> but <UNK> them to be playing high she declined it <UNK> and making her sister the excuse <UNK> said she would <UNK> herself for the short time she could stay below with a book </s>	1.4977474763452012
+<s> wickham walked with the young ladies to the door of mr </s>	5.878016072274913
+<s> they were more <UNK> <UNK> more <UNK> <UNK> than she had often seen them </s>	4.216965034285822
+<s> at such a time <UNK> much might have been said <UNK> and silence was very awkward </s>	3.593813663804627
+<s> oh <UNK> brother <UNK> how kind you are <UNK> i know you will <UNK> it all </s>	3.593813663804627
+<s> <UNK> aunt <UNK> she continued <UNK> <UNK> going to morrow into that part of the town <UNK> and i shall take the opportunity of calling in <UNK> street </s>	2.154434690031884
+<s> collins <UNK> and he was very soon obliged to take her ladyship <UNK> praise into his own hands </s>	3.1622776601683795
+<s> as all conversation was <UNK> at an end <UNK> elizabeth soon afterwards left the room </s>	3.874675120456131
+<s> some people call him proud <UNK> but i am sure i never saw any thing of it </s>	3.3598182862837818
+<s> <UNK> <UNK> <UNK> library <UNK> <UNK> </s>	17.78279410038923
+<s> bingley <UNK> and under your orders </s>	17.78279410038923
+<s> <UNK> <UNK> <UNK> my dear sister <UNK> can i be happy <UNK> even supposing the best <UNK> in <UNK> a man whose sisters and friends are all wishing him to marry <UNK> <UNK> <UNK> must <UNK> for yourself <UNK> said elizabeth <UNK> <UNK> if upon <UNK> <UNK> <UNK> you find that the misery of <UNK> his two sisters is more than <UNK> to the happiness of being his wife <UNK> i advise you by all means to refuse him </s>	1.3287913432286882
+<s> <UNK> <UNK> observed elizabeth <UNK> <UNK> must comprehend a great deal in your idea of an accomplished woman </s>	3.1622776601683795
+<s> they saw him often <UNK> and to his other <UNK> was now added that of general <UNK> </s>	3.3598182862837818
+<s> <UNK> <UNK> what an amiable light does this place him <UNK> thought elizabeth </s>	4.641588833612779
+<s> there is no talk of his coming to netherfield again in the summer <UNK> and i have enquired of every body too <UNK> who is likely to know </s>	2.154434690031884
+<s> can you <UNK> yourself <UNK> lizzy <UNK> so wholly give him up <UNK> as to believe him capable of it <UNK> <UNK> perhaps of <UNK> his own interest </s>	2.154434690031884
+<s> bennet was among the earliest of those who waited on mr </s>	5.878016072274913
+<s> <UNK> <UNK> you _will_ know it <UNK> when i have told you what happened the very next day </s>	3.1622776601683795
+<s> i wonder what he can be doing there </s>	10.000000000000002
+<s> <UNK> <UNK> <UNK> <UNK> mr </s>	26.826957952797255
+<s> if what i have <UNK> said can appear to you in the form of encouragement <UNK> i know not how to express my refusal in such a way as may <UNK> you of its being one </s>	1.8329807108324359
+<s> mrs </s>	2154.4346900318833
+<s> any other <UNK> with <UNK> <UNK> have been left as printed </s>	5.878016072274913
+<s> they will <UNK> your happiness </s>	26.826957952797255
+<s> the officer was the very mr </s>	17.78279410038923
+<s> and even mary could assure her family that she had no <UNK> for it </s>	4.216965034285822
+<s> of his former way of life <UNK> nothing had been known in hertfordshire but what he told himself </s>	3.1622776601683795
+<s> bennet <UNK> in the <UNK> <UNK> was giving way to all the happy schemes <UNK> which the good humour <UNK> and common politeness of bingley <UNK> in half an hour <UNK> visit <UNK> had <UNK> </s>	1.8632463119315603
+<s> since such were her feelings <UNK> it only remained <UNK> he thought <UNK> to secure and <UNK> a marriage <UNK> which <UNK> in his very first conversation with wickham <UNK> he easily learnt <UNK> had never been _his_ design </s>	1.7534865500829584
+<s> and one of my own daughters </s>	17.78279410038923
+<s> mr </s>	2154.4346900318833
+<s> <UNK> <UNK> <UNK> then <UNK> you need not be under any alarm </s>	5.179474679231211
+<s> it was agreed to </s>	46.415888336127786
+<s> vain <UNK> ignorant <UNK> idle <UNK> and absolutely <UNK> <UNK> oh <UNK> my dear father <UNK> can you suppose it possible that they will not be <UNK> and <UNK> wherever they are known <UNK> and that their sisters will not be often <UNK> in the disgrace <UNK> mr </s>	1.5848931924611136
+<s> they were forced to <UNK> <UNK> that he had no pleasing intelligence to send <UNK> but even of _that_ they would have been glad to be certain </s>	2.212216291070449
+<s> under such circumstances <UNK> however <UNK> he was not likely to be proof against the temptation of immediate relief </s>	2.99357729472049
+<s> he <UNK> resolved to be particularly <UNK> that no <UNK> of admiration should _now_ escape him <UNK> nothing that could <UNK> her with the hope of <UNK> his felicity <UNK> sensible that if such an idea had been <UNK> <UNK> his behaviour during the last day must have material weight in <UNK> or <UNK> it </s>	1.4977474763452012
+<s> elizabeth listened with delight to the happy <UNK> though <UNK> hopes which jane entertained of bingley <UNK> regard <UNK> and said all in her power to <UNK> her confidence in it </s>	2.0092330025650473
+<s> bennet <UNK> consent should be asked in the course of the evening </s>	5.179474679231211
+<s> he was a tall <UNK> <UNK> looking young man of five and twenty </s>	4.641588833612779
+<s> bennet <UNK> offended by his manner of mentioning a country neighbourhood </s>	5.878016072274913
+<s> <UNK> <UNK> jane <UNK> you ought to believe me </s>	8.111308307896872
+<s> gardiner went away in all the <UNK> about elizabeth and her derbyshire friend <UNK> that had attended her from that part of the world </s>	2.4244620170823286
+<s> org section <UNK> <UNK> </s>	46.415888336127786
+<s> he could tell her nothing new of the <UNK> of his <UNK> and <UNK> <UNK> and his civilities were <UNK> out like his information </s>	2.4244620170823286
+<s> darcy <UNK> and all that he had suffered from him <UNK> was now openly acknowledged and <UNK> <UNK> <UNK> and every body was pleased to think how much they had always <UNK> mr </s>	1.93069772888325
+<s> _you_ cannot have been always at longbourn </s>	12.915496650148839
+<s> wickham </s>	2154.4346900318833
+<s> <UNK> <UNK> <UNK> he seemed to like his second better </s>	6.812920690579612
+<s> gardiner <UNK> that my niece is very desirous of seeing you all <UNK> before she <UNK> the <UNK> </s>	3.1622776601683795
+<s> i knew enough of your disposition to be certain <UNK> that <UNK> had you been absolutely <UNK> <UNK> decided against me <UNK> you would have acknowledged it to lady catherine <UNK> <UNK> and openly </s>	1.8957356524063758
+<s> _you_ think it a <UNK> <UNK> undoubtedly </s>	12.915496650148839
+<s> philips </s>	2154.4346900318833
+<s> bennet <UNK> his second daughter exceedingly <UNK> his affection for her drew him <UNK> from home than any thing else could do </s>	2.610157215682537
+<s> you must and shall be married by a <UNK> <UNK> </s>	6.812920690579612
+<s> <UNK> elizabeth longed to observe that mr </s>	12.915496650148839
+<s> darcy <UNK> it is very <UNK> in you to mention all that you knew to my <UNK> in hertfordshire and <UNK> give me leave to say <UNK> very <UNK> too for it is <UNK> me to <UNK> <UNK> and such things may come out <UNK> as will <UNK> your relations to hear </s>	1.53174046370208
+<s> <UNK> <UNK> is a sweet <UNK> <UNK> amiable <UNK> charming man </s>	5.878016072274913
+<s> not that i am afraid of <UNK> <UNK> but i <UNK> other people <UNK> remarks </s>	3.874675120456131
+<s> it is not to be supposed that there was much affection in the case </s>	4.216965034285822
+<s> we all know him to be a proud <UNK> unpleasant sort of man <UNK> but this would be nothing if you really liked him </s>	2.4244620170823286
+<s> wickham <UNK> when she read with somewhat <UNK> attention <UNK> a relation of <UNK> <UNK> which <UNK> if true <UNK> must <UNK> every <UNK> opinion of his worth <UNK> and which bore so <UNK> an <UNK> to his own <UNK> of himself <UNK> her feelings were yet more <UNK> painful and more difficult of <UNK> </s>	1.4977474763452012
+<s> and you may be certain that when i have the honour of seeing her again i shall speak in the highest terms of your modesty <UNK> <UNK> <UNK> and other amiable <UNK> </s>	1.9684194472866121
+<s> darcy should have <UNK> his sentiments in a manner so little <UNK> to recommend them <UNK> but still more was she grieved for the <UNK> which her sister <UNK> refusal must have given him </s>	1.8957356524063758
+<s> he has more to give </s>	26.826957952797255
+<s> <UNK> think of its being three months <UNK> she cried <UNK> <UNK> i went away <UNK> it seems but a fortnight i declare <UNK> and yet there have been things enough happened in the time </s>	1.8632463119315603
+<s> hurst and miss bingley <UNK> and elizabeth was convinced that they <UNK> her in contempt for it </s>	3.3598182862837818
+<s> balls will be absolutely <UNK> <UNK> unless you stand up with one of your sisters </s>	3.874675120456131
+<s> he seemed astonished too on finding her alone <UNK> and <UNK> for his <UNK> <UNK> by <UNK> her know that he had understood all the ladies to be within </s>	2.1017480113324885
+<s> but gracious me <UNK> i quite <UNK> <UNK> i ought not to have said a word about it </s>	3.1622776601683795
+<s> if she heard me <UNK> it was by good <UNK> <UNK> for i am sure she did not listen </s>	2.99357729472049
+<s> a most delightful place <UNK> excellent parsonage house <UNK> it would have <UNK> me in every respect </s>	3.3598182862837818
+<s> the wish of <UNK> her regard <UNK> which she had assured herself of his feeling in derbyshire <UNK> could not in rational expectation <UNK> such a <UNK> as this </s>	2.1017480113324885
+<s> he is a pleasant fellow <UNK> and would <UNK> you <UNK> </s>	5.878016072274913
+<s> here was knowledge in which no one could <UNK> <UNK> and she was sensible that nothing less than a perfect understanding between the parties could justify her in <UNK> off this last <UNK> of <UNK> </s>	1.8632463119315603
+<s> the gentlemen arrived early <UNK> and <UNK> before mrs </s>	8.111308307896872
+<s> well <UNK> much good may it do them <UNK> and so <UNK> i suppose <UNK> they often talk of having longbourn when your father is <UNK> </s>	2.2758459260747883
+<s> smiles <UNK> the face of mrs </s>	17.78279410038923
+<s> <UNK> <UNK> we take my uncle <UNK> letter to read to her <UNK> <UNK> whatever you like <UNK> and get away </s>	2.7213387683753076
+<s> they came </s>	316.22776601683796
+<s> perhaps i am not doing her justice </s>	12.915496650148839
+<s> his debts are to be paid <UNK> <UNK> <UNK> i believe <UNK> to <UNK> more than a thousand pounds <UNK> another thousand in addition to her own settled upon _her_ <UNK> and his commission <UNK> </s>	1.8632463119315603
+<s> wickham was not at all more distressed than herself <UNK> but his manners were always so pleasing <UNK> that had his character and his marriage been exactly what they ought <UNK> his smiles and his easy address <UNK> while he <UNK> their relationship <UNK> would have delighted them all </s>	1.5706464294715548
+<s> the death of your daughter would have been a <UNK> in comparison of this </s>	4.216965034285822
+<s> be so kind as to <UNK> for us to miss darcy </s>	5.878016072274913
+<s> mr </s>	2154.4346900318833
+<s> the park was very large <UNK> and contained great variety of ground </s>	5.179474679231211
+<s> wickham with money </s>	100.00000000000004
+<s> <UNK> <UNK> am almost afraid of asking what you thought of me <UNK> when we met at pemberley </s>	3.1622776601683795
+<s> <UNK> <UNK> will you think so <UNK> it must be his own doing </s>	4.641588833612779
+<s> we have reason to imagine that his aunt <UNK> lady catherine de bourgh <UNK> does not look on the match with a friendly eye </s>	2.4244620170823286
+<s> <UNK> dear brother <UNK> <UNK> last i am able to send you some <UNK> of my niece <UNK> and such as <UNK> upon the whole <UNK> i hope will give you satisfaction </s>	1.9684194472866121
+<s> oh <UNK> _that_ abominable mr </s>	26.826957952797255
+<s> <UNK> <UNK> you any thing else to <UNK> for my domestic felicity <UNK> <UNK> <UNK> yes </s>	3.593813663804627
+<s> <UNK> the wife of mr </s>	26.826957952797255
+<s> it has connected him <UNK> with virtue than any other feeling </s>	5.878016072274913
+<s> you both did as much as you could <UNK> in <UNK> the marriage </s>	4.641588833612779
+<s> there is not a <UNK> county in <UNK> than derbyshire </s>	6.812920690579612
+<s> and in the wretched state of his own <UNK> <UNK> there was a very <UNK> motive for secrecy <UNK> in addition to his fear of discovery by lydia <UNK> relations <UNK> for it had just <UNK> that he had left <UNK> debts behind him <UNK> to a very considerable <UNK> </s>	1.5570684047537309
+<s> society <UNK> i own <UNK> is necessary to me </s>	8.111308307896872
+<s> elizabeth smiled at the recollection of all that she had heard of its <UNK> </s>	4.216965034285822
+<s> <UNK> persuaded as miss bingley was that darcy admired elizabeth <UNK> this was not the best method of <UNK> herself <UNK> but angry people are not always <UNK> <UNK> and in seeing him at last look somewhat <UNK> <UNK> she had all the success she expected </s>	1.615598098439874
+<s> mr </s>	2154.4346900318833
+<s> i have a high respect for your <UNK> </s>	10.000000000000002
+<s> bennet was likely to live <UNK> and sir william gave it as his decided opinion <UNK> that whenever mr </s>	2.99357729472049
+<s> <UNK> <UNK> <UNK> replied elizabeth <UNK> are such people <UNK> but i hope i am not one of _them_ </s>	2.99357729472049
+<s> at least <UNK> therefore <UNK> i did not <UNK> the character of <UNK> <UNK> merely to shew off before the ladies </s>	2.7213387683753076
+<s> the compliment to herself and her sister <UNK> was not <UNK> </s>	5.878016072274913
+<s> mrs </s>	2154.4346900318833
+<s> <UNK> the evening was spent chiefly in talking over hertfordshire news <UNK> and telling again what had been already written <UNK> and when it closed <UNK> elizabeth in the <UNK> of her <UNK> had to <UNK> upon charlotte <UNK> degree of <UNK> <UNK> to understand her address in <UNK> <UNK> and composure in <UNK> with her husband <UNK> and to acknowledge that it was all done very well </s>	1.3894954943731377
+<s> <UNK> am trying to make it out </s>	12.915496650148839
+<s> he called it <UNK> therefore <UNK> his duty to step forward <UNK> and endeavour to <UNK> an evil <UNK> which had been brought on by himself </s>	2.2758459260747883
+<s> hurst and miss bingley </s>	46.415888336127786
+<s> <UNK> <UNK> the officers <UNK> cried lydia </s>	12.915496650148839
+<s> <UNK> will take care not to <UNK> their income </s>	8.111308307896872
+<s> i shall send for my clothes when i get to longbourn <UNK> but i wish you would tell <UNK> to <UNK> a great <UNK> in my <UNK> <UNK> gown <UNK> before they are <UNK> up </s>	1.8632463119315603
+<s> i am sick of them all </s>	17.78279410038923
+<s> what a pity it is <UNK> mamma <UNK> we did not all go </s>	4.641588833612779
+<s> elizabeth walked on in quest of the only face whose features would be known to her </s>	3.593813663804627
+<s> mrs </s>	2154.4346900318833
+<s> she began at length to recover <UNK> to <UNK> about in her chair <UNK> get up <UNK> sit down again <UNK> wonder <UNK> and <UNK> herself </s>	2.2758459260747883
+<s> but our visitor was very <UNK> </s>	17.78279410038923
+<s> mr </s>	2154.4346900318833
+<s> but though every thing seemed <UNK> and comfortable <UNK> she was not able to <UNK> him by any <UNK> of <UNK> <UNK> and rather looked with wonder at her friend that she could have so cheerful an air <UNK> with such a companion </s>	1.6681005372000588
+<s> your <UNK> <UNK> <UNK> </s>	46.415888336127786
+<s> my father is going to london with colonel forster instantly <UNK> to try to discover her </s>	3.593813663804627
+<s> and so <UNK> is it quite certain he is coming <UNK> <UNK> may depend on it <UNK> replied the other <UNK> <UNK> mrs </s>	2.51188643150958
+<s> that he is as false and <UNK> <UNK> as he is <UNK> </s>	5.179474679231211
+<s> her daughter endeavoured to <UNK> her of what she did not believe herself <UNK> that his attentions to jane had been merely the effect of a common and <UNK> <UNK> <UNK> which ceased when he saw her no more <UNK> but though the probability of the <UNK> was admitted at the time <UNK> she had the same story to <UNK> every day </s>	1.4330125702369627
+<s> our plain manner of living <UNK> our small rooms <UNK> and few <UNK> <UNK> and the little we see of the world <UNK> must make hunsford extremely <UNK> to a young lady like yourself <UNK> but i hope you will believe us grateful for the condescension <UNK> and that we have done every thing in our power to prevent your <UNK> your time <UNK> </s>	1.4174741629268053
+<s> his words seemed to <UNK> it </s>	17.78279410038923
+<s> it was my brother gardiner <UNK> drawing up too <UNK> and i wonder how he came to make such an awkward business of it </s>	2.4244620170823286
+<s> i have more than once observed to lady catherine <UNK> that her charming daughter seemed <UNK> to be a <UNK> <UNK> and that the most <UNK> rank <UNK> instead of giving her consequence <UNK> would be <UNK> by her </s>	1.7534865500829584
+<s> collins welcomed her friend with the <UNK> pleasure <UNK> and elizabeth was more and more satisfied with coming <UNK> when she found herself so <UNK> received </s>	2.2758459260747883
+<s> e </s>	2154.4346900318833
+<s> darcy it was now a matter of anxiety to think well <UNK> and <UNK> as far as their acquaintance reached <UNK> there was no fault to find </s>	2.212216291070449
+<s> but <UNK> lizzy <UNK> you look as if you did not enjoy it </s>	4.641588833612779
+<s> jane was as much gratified by this <UNK> as her mother could be <UNK> though in a <UNK> way </s>	2.99357729472049
+<s> an <UNK> of a different <UNK> <UNK> and <UNK> the possibility of the other <UNK> was soon to be formed in their family </s>	2.51188643150958
+<s> but we are none of us <UNK> <UNK> and in his behaviour to me <UNK> there were stronger <UNK> even than pride </s>	2.610157215682537
+<s> bingley <UNK> _i_ always keep servants that can do their own work <UNK> _my_ daughters are brought up differently </s>	2.99357729472049
+<s> <UNK> elizabeth <UNK> feeling really anxious <UNK> was determined to go to her <UNK> though the carriage was not to be had <UNK> and as she was no <UNK> woman <UNK> walking was her only <UNK> </s>	1.8329807108324359
+<s> <UNK> <UNK> i do </s>	46.415888336127786
+<s> so high and so conceited that there was no <UNK> him <UNK> he walked here <UNK> and he walked there <UNK> <UNK> himself so very great <UNK> not handsome enough to dance with <UNK> i wish you had been there <UNK> my dear <UNK> to have given him one of your set <UNK> </s>	1.5199110829529336
+<s> wickham were returned <UNK> and to <UNK> over his absence from the netherfield ball </s>	4.216965034285822
+<s> they may be there <UNK> though for the purpose of <UNK> <UNK> for no more <UNK> purpose </s>	3.3598182862837818
+<s> <UNK> <UNK> a doubt <UNK> they _do_ wish him to chuse miss darcy <UNK> replied jane <UNK> <UNK> this may be from better feelings than you are supposing </s>	2.154434690031884
+<s> such relief <UNK> however <UNK> as it was in her power to afford <UNK> by the <UNK> of what might be called <UNK> in her own private <UNK> <UNK> she frequently sent them </s>	1.93069772888325
+<s> bennet could hardly comprehend it </s>	26.826957952797255
+<s> one may be continually <UNK> without saying any thing just <UNK> but one cannot be always laughing at a man without now and then <UNK> on something <UNK> </s>	2.154434690031884
+<s> to the girls <UNK> who could not listen to their cousin <UNK> and who had nothing to do but to wish for an instrument <UNK> and <UNK> their own indifferent <UNK> of <UNK> on the <UNK> piece <UNK> the <UNK> of waiting appeared very long </s>	1.632172128563275
+<s> with <UNK> <UNK> he then replied <UNK> <UNK> have no wish of <UNK> that i did every thing in my power to separate my friend from your sister <UNK> or that i rejoice in my success </s>	1.8329807108324359
+<s> hurst <UNK> <UNK> occupied in playing with her <UNK> and <UNK> <UNK> joined now and then in her brother <UNK> conversation with miss bennet </s>	2.4244620170823286
+<s> but the <UNK> of lydia <UNK> prospect was shortly <UNK> away <UNK> for she received an invitation from mrs </s>	2.99357729472049
+<s> her ease and good spirits increased </s>	17.78279410038923
+<s> collins knew not what to make of him </s>	10.000000000000002
+<s> from this day you must be a stranger to one of your parents </s>	4.641588833612779
+<s> my dear charlotte and i have but one mind and one way of thinking </s>	4.216965034285822
+<s> when the party <UNK> up <UNK> lydia returned with mrs </s>	6.812920690579612
+<s> could you expect me to rejoice in the <UNK> of your connections <UNK> to congratulate myself on the hope of relations <UNK> whose <UNK> in life is so <UNK> <UNK> my own <UNK> elizabeth felt herself <UNK> more angry every moment <UNK> yet she tried to the utmost to speak with composure when she said <UNK> <UNK> are mistaken <UNK> mr </s>	1.4412195967188537
+<s> <UNK> <UNK> will <UNK> the acquaintance entirely </s>	12.915496650148839
+<s> - you comply with all other terms of this agreement for free distribution of project gutenberg tm works </s>	3.1622776601683795
+<s> i have by no means done </s>	17.78279410038923
+<s> in truth i must acknowledge that <UNK> with all the <UNK> of this humble parsonage <UNK> i should not think any one <UNK> in it an object of compassion <UNK> while they are <UNK> of our intimacy at rosings </s>	1.7534865500829584
+<s> bingley <UNK> property to the <UNK> of nearly an hundred thousand pounds from his father <UNK> who had intended to purchase an estate <UNK> but did not live to do it </s>	2.0092330025650473
+<s> even elizabeth began to fear not that bingley was indifferent but that his sisters would be <UNK> in keeping him away </s>	2.7213387683753076
+<s> mr </s>	2154.4346900318833
+<s> gardiner then <UNK> her niece on wickham <UNK> <UNK> <UNK> and <UNK> her on <UNK> it so well </s>	3.1622776601683795
+<s> if the second copy is also <UNK> <UNK> you may <UNK> a refund in writing without <UNK> <UNK> to <UNK> the <UNK> </s>	2.610157215682537
+<s> we now come to the point </s>	17.78279410038923
+<s> <UNK> elizabeth could <UNK> say that it was a great happiness where that was the case <UNK> and with equal <UNK> could add that she <UNK> believed and rejoiced in his domestic <UNK> </s>	1.93069772888325
+<s> you shall not <UNK> for the sake of one individual <UNK> change the meaning of <UNK> and <UNK> <UNK> nor endeavour to persuade yourself or me <UNK> that <UNK> is <UNK> <UNK> and <UNK> of danger <UNK> <UNK> for happiness </s>	1.7301957388458942
+<s> i hoped to find you reasonable <UNK> but depend upon it i will carry my point </s>	3.593813663804627
+<s> two days after mr </s>	46.415888336127786
+<s> bennet <UNK> delighted to speak to a lady catherine </s>	8.111308307896872
+<s> he was <UNK> quite <UNK> to other people <UNK> and wholly <UNK> by her </s>	4.216965034285822
+<s> <UNK> <UNK> <UNK> yes </s>	46.415888336127786
+<s> that he has neither <UNK> nor honour </s>	12.915496650148839
+<s> they agreed that mrs </s>	46.415888336127786
+<s> this is not quite enough to make her understand his character </s>	5.878016072274913
+<s> my conduct may i fear be <UNK> in having accepted my <UNK> from your daughter <UNK> lips instead of your own </s>	2.7213387683753076
+<s> <UNK> <UNK> is not an <UNK> <UNK> <UNK> said fitzwilliam <UNK> <UNK> it is <UNK> the honour of my cousin <UNK> triumph very <UNK> </s>	2.4244620170823286
+<s> she had scarcely <UNK> her present observation to be satisfied <UNK> from the reason of things <UNK> that their elopement had been brought on by the strength of her love <UNK> rather than by his <UNK> and she would have wondered why <UNK> without violently <UNK> for her <UNK> he chose to <UNK> with her at all <UNK> had she not felt certain that his <UNK> was rendered necessary by distress of circumstances <UNK> and if that were the case <UNK> he was not the young man to <UNK> an opportunity of having a companion </s>	1.2679227183627855
+<s> but i am afraid you are giving it a turn which that gentleman did by no means <UNK> <UNK> for he would certainly think the better of me <UNK> if under such a circumstance i were to give a <UNK> denial <UNK> and <UNK> off as fast as i could </s>	1.5570684047537309
+<s> his pride never <UNK> him <UNK> but with the rich <UNK> he is <UNK> <UNK> <UNK> just <UNK> sincere <UNK> rational <UNK> honourable <UNK> and perhaps agreeable <UNK> allowing something for fortune and figure </s>	1.8957356524063758
+<s> his own father did not long <UNK> mine <UNK> and within half a year from these <UNK> <UNK> mr </s>	2.99357729472049
+<s> <UNK> is happy <UNK> then <UNK> said her father <UNK> <UNK> <UNK> <UNK> her <UNK> there will probably be of some <UNK> </s>	2.610157215682537
+<s> convinced as elizabeth now was that miss bingley <UNK> dislike of her had <UNK> in <UNK> <UNK> she could not help feeling how very <UNK> her appearance at pemberley must be to her <UNK> and was <UNK> to know with how much civility on that lady <UNK> side <UNK> the acquaintance would now be renewed </s>	1.4977474763452012
+<s> those who do not <UNK> are never <UNK> </s>	10.000000000000002
+<s> <UNK> <UNK> you forget <UNK> <UNK> <UNK> said elizabeth <UNK> <UNK> we shall meet him at the <UNK> <UNK> and that mrs </s>	2.610157215682537
+<s> long will do any such thing </s>	17.78279410038923
+<s> but do not imagine that he is always here so often </s>	5.878016072274913
+<s> <UNK> <UNK> <UNK> so it is <UNK> cried her mother <UNK> <UNK> mrs </s>	4.641588833612779
+<s> i hear such different <UNK> of you as <UNK> me exceedingly </s>	5.878016072274913
+<s> lizzy <UNK> my dear <UNK> run down to your father <UNK> and ask him how much he will give her </s>	2.848035868435802
+<s> but really <UNK> and upon my honour <UNK> i will try to do what i think to be wisest <UNK> and now <UNK> i hope you are satisfied </s>	2.154434690031884
+<s> miss bingley was very <UNK> <UNK> by darcy <UNK> marriage <UNK> but as she thought it advisable to <UNK> the right of <UNK> at pemberley <UNK> she <UNK> all her resentment <UNK> was <UNK> than ever of georgiana <UNK> almost as attentive to darcy as <UNK> <UNK> and paid off every <UNK> of civility to elizabeth </s>	1.4873521072935114
+<s> mrs </s>	2154.4346900318833
+<s> the fact is <UNK> that you were sick of civility <UNK> of deference <UNK> of <UNK> attention </s>	3.3598182862837818
+<s> <UNK> thus offered you the sincere congratulations of mrs </s>	8.111308307896872
+<s> bennet <UNK> <UNK> walk to <UNK> <UNK> this morning </s>	8.111308307896872
+<s> it was an evening of no common delight to them all <UNK> the satisfaction of miss bennet <UNK> mind gave a <UNK> of such sweet <UNK> to her face <UNK> as made her look <UNK> than ever </s>	1.8047217668271704
+<s> they stood for some time without speaking a word <UNK> and she began to imagine that their silence was to last through the two dances <UNK> and at first was resolved not to <UNK> it <UNK> till suddenly <UNK> that it would be the greater <UNK> to her partner to oblige him to talk <UNK> she made some slight observation on the dance </s>	1.425102670302998
+<s> darcy chose to doubt it or to <UNK> it as a merely <UNK> <UNK> <UNK> and to <UNK> that i had <UNK> all claim to it by <UNK> <UNK> imprudence <UNK> in short any thing or nothing </s>	1.8047217668271704
+<s> bingley <UNK> said elizabeth <UNK> <UNK> <UNK> <UNK> </s>	10.000000000000002
+<s> colonel fitzwilliam had called at the parsonage more than once during the time <UNK> but mr </s>	3.593813663804627
+<s> i do not think it is very pretty <UNK> but i thought i might as well <UNK> it as not </s>	2.848035868435802
+<s> <UNK> began the evening well <UNK> charlotte <UNK> said mrs </s>	6.812920690579612
+<s> you know how i <UNK> it <UNK> unless i am particularly acquainted with my partner </s>	3.874675120456131
+<s> nor did he seem much more at ease <UNK> when he spoke <UNK> his <UNK> had none of its usual <UNK> <UNK> and he repeated his enquiries as to the time of her having left longbourn <UNK> and of her stay in derbyshire <UNK> so often <UNK> and in so hurried a way <UNK> as plainly spoke the <UNK> of his thoughts </s>	1.4330125702369627
+<s> <UNK> <UNK> it must very <UNK> <UNK> their chance of marrying men of any consideration in the world <UNK> replied darcy </s>	2.7213387683753076
+<s> <UNK> <UNK> am <UNK> said he <UNK> with a <UNK> voice </s>	5.878016072274913
+<s> <UNK> <UNK> in whose character we were most <UNK> deceived <UNK> and by her <UNK> and <UNK> <UNK> he so far recommended himself to georgiana <UNK> whose affectionate heart <UNK> a strong impression of his kindness to her as a child <UNK> that she was persuaded to believe herself in love <UNK> and to consent to an elopement </s>	1.4677992676220695
+<s> <UNK> <UNK> </s>	316.22776601683796
+<s> <UNK> <UNK> their income <UNK> my dear mr </s>	10.000000000000002
+<s> kitty then <UNK> <UNK> with a very natural triumph on knowing more than the rest of us <UNK> that in lydia <UNK> last letter <UNK> she had prepared her for such a step </s>	1.93069772888325
+<s> <UNK> <UNK> dear <UNK> yes <UNK> you must own she is very plain </s>	4.641588833612779
+<s> darcy <UNK> or at least <UNK> by the <UNK> of virtue <UNK> <UNK> for those <UNK> <UNK> <UNK> under which she would endeavour to <UNK> <UNK> what mr </s>	2.154434690031884
+<s> i rather wished <UNK> than believed him to be sincere <UNK> but at any <UNK> <UNK> was perfectly ready to <UNK> to his proposal </s>	2.4244620170823286
+<s> bennet <UNK> the <UNK> that were to do credit to her <UNK> <UNK> when an answer arrived which <UNK> it all </s>	2.7213387683753076
+<s> <UNK> could you begin <UNK> said she </s>	12.915496650148839
+<s> even elizabeth might have found some <UNK> of her patience in weather <UNK> which totally <UNK> the improvement of her acquaintance with mr </s>	2.51188643150958
+<s> lydia was a <UNK> <UNK> well <UNK> girl of <UNK> <UNK> with a fine complexion and good humoured countenance <UNK> a favourite with her mother <UNK> whose affection had brought her into public at an early age </s>	1.8047217668271704
+<s> <UNK> too much <UNK> she added <UNK> <UNK> far too much </s>	5.878016072274913
+<s> <UNK> this was a <UNK> <UNK> of what her mother <UNK> behaviour to the gentleman himself might be <UNK> and elizabeth found <UNK> that though in the certain possession of his <UNK> affection <UNK> and secure of her relations <UNK> consent <UNK> there was still something to be wished for </s>	1.5570684047537309
+<s> i was sure you could not be so beautiful for nothing <UNK> i remember <UNK> as soon as ever i saw him <UNK> when he first came into hertfordshire last year <UNK> i thought how likely it was that you should come together </s>	1.6681005372000588
+<s> till the next morning <UNK> however <UNK> she was not aware of all the felicity of her <UNK> </s>	3.1622776601683795
+<s> the <UNK> or <UNK> of any <UNK> of this agreement shall not <UNK> the remaining <UNK> </s>	3.593813663804627
+<s> denny <UNK> concerning whose return from london lydia came to <UNK> <UNK> and he <UNK> as they passed </s>	3.1622776601683795
+<s> he had certainly formed such a plan <UNK> and without meaning that it should <UNK> his endeavour to separate him from miss bennet <UNK> it is probable that it might add something to his lively concern for the <UNK> of his friend </s>	1.6876124757881479
+<s> collins returned the gentlemen accompanied him </s>	17.78279410038923
+<s> <UNK> <UNK> i <UNK> i am sure <UNK> said miss bingley </s>	5.878016072274913
+<s> <UNK> elizabeth replied very <UNK> that she was </s>	10.000000000000002
+<s> i came to you without a doubt of my reception </s>	6.812920690579612
+<s> <UNK> and i are going <UNK> to sit in my dressing room </s>	5.179474679231211
+<s> <UNK> <UNK> young ladies accomplished <UNK> my dear charles <UNK> what do you mean <UNK> <UNK> <UNK> all of them <UNK> i think </s>	2.51188643150958
+<s> he cannot know what mr </s>	26.826957952797255
+<s> all was acknowledged <UNK> and half the night spent in conversation </s>	5.878016072274913
+<s> we do not <UNK> donations in <UNK> where we have not received written <UNK> of compliance </s>	3.593813663804627
+<s> i <UNK> say <UNK> one of her ladyship <UNK> carriages <UNK> for she has several </s>	3.874675120456131
+<s> and <UNK> above all things <UNK> keep mr </s>	10.000000000000002
+<s> must it be so <UNK> <UNK> <UNK> lord <UNK> yes <UNK> is nothing in that </s>	3.874675120456131
+<s> your conduct would be quite as <UNK> on chance as that of any man i know <UNK> and if <UNK> as you were <UNK> your <UNK> <UNK> a friend were to say <UNK> <UNK> <UNK> you had better stay till next week <UNK> you would probably do it <UNK> you would probably not go and <UNK> at another word <UNK> might stay a month </s>	1.4174741629268053
+<s> as he was to begin his journey too early on the morrow to see any of the family <UNK> the <UNK> of leave taking was performed when the ladies moved for the night <UNK> and mrs </s>	1.8329807108324359
+<s> <UNK> <UNK> sort of a girl is miss darcy <UNK> he shook his head </s>	4.216965034285822
+<s> bennet seemed wholly <UNK> at present <UNK> to leave london <UNK> and promised to write again very soon </s>	3.1622776601683795
+<s> it <UNK> me to <UNK> you </s>	17.78279410038923
+<s> <UNK> they are really to be married <UNK> cried elizabeth <UNK> as soon as they were by themselves </s>	3.1622776601683795
+<s> collins and maria were gone on business into the village <UNK> when she was <UNK> by a <UNK> at the door <UNK> the certain <UNK> of a visitor </s>	2.154434690031884
+<s> to <UNK> a silence which might make him fancy her affected with what had passed <UNK> she soon afterwards said <UNK> <UNK> imagine your cousin brought you down with him chiefly for the sake of having somebody at his <UNK> </s>	1.7301957388458942
+<s> gardiner was a sensible <UNK> gentleman like man <UNK> greatly superior to his sister <UNK> as well by nature as education </s>	2.7213387683753076
+<s> he was writing <UNK> and <UNK> without <UNK> his head <UNK> <UNK> replied <UNK> <UNK> as you please </s>	3.1622776601683795
+<s> when she was only <UNK> <UNK> there was a gentleman at my brother gardiner <UNK> in town <UNK> so much in love with her <UNK> that my sister in law was sure he would make her an offer before we came away </s>	1.6876124757881479
+<s> it was some consolation to think that his visit to rosings was to end on the day after the next <UNK> and a still greater <UNK> that in less than a fortnight she should herself be with jane again <UNK> and <UNK> to <UNK> to the <UNK> of her spirits <UNK> by all that affection could do </s>	1.4773776525985112
+<s> but these are not jane <UNK> feelings <UNK> she is not <UNK> by design </s>	4.216965034285822
+<s> but _now_ suppose as much as you chuse <UNK> give a <UNK> to your fancy <UNK> <UNK> your <UNK> in every possible <UNK> which the subject will afford <UNK> and unless you believe me actually married <UNK> you cannot greatly <UNK> </s>	1.7082763938087104
+<s> they are <UNK> for each other by the voice of every <UNK> of their <UNK> <UNK> <UNK> and what is to <UNK> them <UNK> the <UNK> <UNK> of a young woman without family <UNK> connections <UNK> or fortune </s>	1.778279410038923
+<s> yes <UNK> yes </s>	100.00000000000004
+<s> though suspicion was very far from miss bennet <UNK> general <UNK> <UNK> she was absolutely <UNK> here </s>	3.3598182862837818
+<s> she certainly did not hate him </s>	17.78279410038923
+<s> darcy <UNK> she left elizabeth to walk by herself </s>	8.111308307896872
+<s> darcy <UNK> to be <UNK> his father <UNK> favourite in such a manner <UNK> one <UNK> whom his father had promised to provide for </s>	2.4244620170823286
+<s> elizabeth had frequently united with jane in an endeavour to check the imprudence of catherine and lydia <UNK> but while they were <UNK> by their mother <UNK> indulgence <UNK> what chance could there be of improvement <UNK> catherine <UNK> weak <UNK> <UNK> <UNK> <UNK> and completely under lydia <UNK> <UNK> <UNK> had been always <UNK> by their advice <UNK> and lydia <UNK> self <UNK> and <UNK> <UNK> would scarcely give them a hearing </s>	1.3593563908785256
+<s> chapter <UNK> </s>	316.22776601683796
+<s> <UNK> an only son <UNK> <UNK> many years an only <UNK> <UNK> i was <UNK> by my parents <UNK> who though good themselves <UNK> <UNK> father particularly <UNK> all that was <UNK> and amiable <UNK> allowed <UNK> encouraged <UNK> almost taught me to be selfish and <UNK> <UNK> to care for none beyond my own family circle <UNK> to think <UNK> of all the rest of the world <UNK> to <UNK> at least to think <UNK> of their sense and worth <UNK> with my own </s>	1.302994338575022
+<s> we have certainly done our best <UNK> and most <UNK> having it in our power to introduce you to very superior society <UNK> and from our connection with rosings <UNK> the frequent means of <UNK> the humble home scene <UNK> i think we may flatter ourselves that your hunsford visit cannot have been entirely <UNK> </s>	1.4977474763452012
+<s> wickham is <UNK> with such happy manners as may <UNK> his <UNK> friends whether he may be equally capable of <UNK> them <UNK> is less certain </s>	2.2758459260747883
+<s> <UNK> she did at last <UNK> from her father an <UNK> that the horses were engaged </s>	3.593813663804627
+<s> collins for having spoken so <UNK> <UNK> and observed in a half whisper to lady lucas <UNK> that he was a remarkably clever <UNK> good kind of young man </s>	2.1017480113324885
+<s> collins <UNK> his <UNK> to <UNK> him out in his <UNK> <UNK> and <UNK> him the country <UNK> but when he went away <UNK> the whole family returned to their usual <UNK> <UNK> and elizabeth was thankful to find that they did not see more of her cousin by the alteration <UNK> for the chief of the time between breakfast and dinner was now passed by him either at work in the garden <UNK> or in reading and writing <UNK> and looking out of window in his own book room <UNK> which <UNK> the road </s>	1.2679227183627855
+<s> but good lord <UNK> how unlucky <UNK> there is not a <UNK> of <UNK> to be got to day </s>	2.99357729472049
+<s> hill began instantly to express her joy </s>	12.915496650148839
+<s> <UNK> <UNK> <UNK> you mean jane <UNK> i suppose because he danced with her twice </s>	3.874675120456131
+<s> <UNK> am by no means of opinion <UNK> i assure you <UNK> said he <UNK> <UNK> a ball of this kind <UNK> given by a young man of character <UNK> to respectable people <UNK> can have any evil <UNK> <UNK> and i am so far from <UNK> to dancing myself that i shall hope to be honoured with the hands of all my fair cousins in the course of the evening <UNK> and i take this opportunity of <UNK> yours <UNK> miss elizabeth <UNK> for the two first dances especially <UNK> a preference which i trust my cousin jane will <UNK> to the right cause <UNK> and not to any <UNK> for her </s>	1.221677348996792
+<s> <UNK> <UNK> <UNK> then supposing them to be in london </s>	6.812920690579612
+<s> the liberty of communication cannot be mine till it has lost all its value <UNK> she was now <UNK> on being settled at home <UNK> at leisure to observe the real state of her sister <UNK> spirits </s>	1.8047217668271704
+<s> her niece was <UNK> therefore <UNK> obliged to <UNK> <UNK> and they took their way towards the house on the opposite side of the river <UNK> in the <UNK> direction <UNK> but their <UNK> was <UNK> <UNK> for mr </s>	1.7534865500829584
+<s> in the <UNK> lydia was <UNK> with the rest of the girls to walk to meryton and see how every body went on <UNK> but elizabeth <UNK> <UNK> the scheme </s>	2.0535250264571463
+<s> mr </s>	2154.4346900318833
+<s> <UNK> <UNK> <UNK> <UNK> <UNK> pride <UNK> prejudice </s>	10.000000000000002
+<s> reynolds <UNK> <UNK> to another of the <UNK> <UNK> <UNK> my master and very like him </s>	3.593813663804627
+<s> i shall offer to pay him to morrow <UNK> he will <UNK> and <UNK> about his love for you <UNK> and there will be an end of the matter </s>	2.1017480113324885
+<s> the horses were <UNK> <UNK> and neither the carriage <UNK> nor the <UNK> of the servant who <UNK> it <UNK> were <UNK> to them </s>	2.4244620170823286
+<s> <UNK> you have <UNK> all your own <UNK> <UNK> mr </s>	6.812920690579612
+<s> how could i be so silly as to wish it <UNK> your idea of the <UNK> is delightful </s>	3.1622776601683795
+<s> bennet <UNK> expectations were <UNK> answered </s>	17.78279410038923
+<s> <UNK> <UNK> they indeed <UNK> cried elizabeth <UNK> with the greatest satisfaction </s>	5.179474679231211
+<s> they then went away </s>	46.415888336127786
+<s> <UNK> <UNK> do assure you <UNK> sir <UNK> that i have no <UNK> whatever to that kind of elegance which <UNK> in <UNK> a respectable man </s>	2.2758459260747883
+<s> mr </s>	2154.4346900318833
+<s> mrs </s>	2154.4346900318833
+<s> she became <UNK> of his esteem <UNK> when she could no longer hope to be <UNK> by it </s>	3.1622776601683795
+<s> darcy <UNK> character <UNK> though he had assured her that respect for the father <UNK> would always prevent his <UNK> the son </s>	2.610157215682537
+<s> <UNK> have no reason <UNK> i assure you <UNK> said he <UNK> <UNK> be <UNK> with my reception </s>	3.1622776601683795
+<s> there was certainly at this moment <UNK> in elizabeth <UNK> mind <UNK> a more <UNK> <UNK> towards the original <UNK> than she had ever felt in the <UNK> of their acquaintance </s>	2.0092330025650473
+<s> the dinner was exceedingly handsome <UNK> and there were all the servants <UNK> and all the <UNK> of <UNK> which mr </s>	2.7213387683753076
+<s> darcy <UNK> by coming in all this state to hear me <UNK> but i will not be alarmed though your sister <UNK> play so well </s>	2.346228848142263
+<s> had elizabeth been at leisure to be idle <UNK> she would have remained certain that all employment was impossible to one so wretched as herself <UNK> but she had her share of business as well as her aunt <UNK> and amongst the rest there were <UNK> to be written to all their friends in lambton <UNK> with false <UNK> for their sudden departure </s>	1.425102670302998
+<s> excuse me for i must speak plainly </s>	12.915496650148839
+<s> at present i will say nothing about it </s>	10.000000000000002
+<s> well <UNK> my comfort is <UNK> i am sure jane will <UNK> of a <UNK> heart <UNK> and then he will be sorry for what he has done </s>	2.154434690031884
+<s> no one admitted to the <UNK> of hearing you <UNK> can think any thing wanting </s>	3.874675120456131
+<s> she <UNK> what would be felt in the family when her situation became known <UNK> she was aware that no one liked him but jane <UNK> and even feared that with the others it was a <UNK> which not all his fortune and consequence might do away </s>	1.599858719606058
+<s> i do not know who is good enough for him </s>	6.812920690579612
+<s> his answer to this sudden <UNK> was delightful to their mother <UNK> <UNK> </s>	4.641588833612779
+<s> he has the promise of an <UNK> in general <UNK> regiment <UNK> now <UNK> in the north </s>	3.3598182862837818
+<s> e </s>	2154.4346900318833
+<s> <UNK> mr </s>	316.22776601683796
+<s> chapter <UNK> </s>	316.22776601683796
+<s> the happiness which this reply produced <UNK> was such as he had probably never felt before <UNK> and he expressed himself on the occasion as <UNK> and as warmly as a man violently in love can be supposed to do </s>	1.7301957388458942
+<s> darcy for herself <UNK> she would have ordered her wedding clothes </s>	5.878016072274913
+<s> darcy was really the object of her choice <UNK> by <UNK> the <UNK> change which her <UNK> of him had <UNK> <UNK> <UNK> her <UNK> certainty that his affection was not the work of a day <UNK> but had stood the <UNK> of many months <UNK> <UNK> and <UNK> with <UNK> all his good qualities <UNK> she did <UNK> her father <UNK> <UNK> <UNK> and <UNK> him to the match </s>	1.3768571648527583
+<s> one seems so <UNK> without them </s>	17.78279410038923
+<s> soon after their return <UNK> a letter was <UNK> to miss bennet <UNK> it came from netherfield <UNK> and was opened immediately </s>	2.610157215682537
+<s> i know my dear uncle and aunt so well <UNK> that i am not afraid of <UNK> it <UNK> though i have still something more to ask of the former </s>	2.0535250264571463
+<s> he replied <UNK> and was again silent </s>	12.915496650148839
+<s> you have no compassion on my poor <UNK> </s>	10.000000000000002
+<s> he was the <UNK> <UNK> most disagreeable man in the world <UNK> and every body hoped that he would never come there again </s>	2.51188643150958
+<s> <UNK> the loss of her daughter made mrs </s>	10.000000000000002
+<s> <UNK> <UNK> walk three miles <UNK> or four miles <UNK> or five miles <UNK> or whatever it is <UNK> above her <UNK> in <UNK> <UNK> and alone <UNK> quite alone <UNK> what could she mean by it <UNK> it seems to me to shew an abominable sort of conceited independence <UNK> a most country town indifference to <UNK> </s>	1.4677992676220695
+<s> <UNK> confess <UNK> said he <UNK> <UNK> i should not have been at all surprised by her ladyship <UNK> asking us on sunday to drink tea and spend the evening at rosings </s>	1.9684194472866121
+<s> i longed to know whether he would be married in his <UNK> <UNK> </s>	4.641588833612779
+<s> this <UNK> madam <UNK> is a <UNK> <UNK> of every event in which we have been concerned together <UNK> and if you do not absolutely <UNK> it as false <UNK> you will <UNK> i hope <UNK> <UNK> me <UNK> of <UNK> towards mr </s>	1.6681005372000588
+<s> <UNK> <UNK> i hope there is no strong attachment on either side <UNK> said jane </s>	3.874675120456131
+<s> the wisest and the best of men <UNK> nay <UNK> the wisest and best of their actions <UNK> may be rendered <UNK> by a person whose first object in life is a <UNK> </s>	1.93069772888325
+<s> at first there seemed danger of lydia <UNK> <UNK> him entirely <UNK> for she was a most determined <UNK> <UNK> but being likewise extremely fond of <UNK> <UNK> <UNK> she soon grew too much interested in the game <UNK> too eager in making <UNK> and <UNK> after <UNK> <UNK> to have attention for any one in particular </s>	1.4773776525985112
+<s> i joined them <UNK> a day or two before the intended elopement <UNK> and then georgiana <UNK> unable to support the idea of <UNK> and <UNK> a brother whom she almost looked up to as a father <UNK> acknowledged the whole to me </s>	1.6681005372000588
+<s> next to being married <UNK> a girl likes to be <UNK> in love a little now and then </s>	3.1622776601683795
+<s> of the lady <UNK> <UNK> they remained a little in doubt <UNK> but that the gentleman was <UNK> with admiration was evident enough </s>	2.51188643150958
+<s> you must come and make lizzy marry mr </s>	10.000000000000002
+<s> he had always intended to visit him <UNK> though to the last always <UNK> his wife that he should not go <UNK> and till the evening after the visit was paid <UNK> she had no knowledge of it </s>	1.778279410038923
+<s> he is nothing to us <UNK> you know <UNK> and i am sure _i_ never want to see him again </s>	2.848035868435802
+<s> he is rich <UNK> to be sure <UNK> and you may have more fine clothes and fine carriages than jane </s>	2.848035868435802
+<s> but i am very far from <UNK> with you in your <UNK> of ladies in general </s>	3.593813663804627
+<s> bingley did not do justice to his own disposition </s>	8.111308307896872
+<s> darcy than he has received <UNK> and i am sorry to say that by his account as well as his sister <UNK> <UNK> mr </s>	2.4244620170823286
+<s> e </s>	2154.4346900318833
+<s> philips a very attentive <UNK> <UNK> whose opinion of his consequence increased with what she heard <UNK> and who was resolving to <UNK> it all among her neighbours as soon as she could </s>	1.93069772888325
+<s> as to his real character <UNK> had information been in her power <UNK> she had never felt a wish of <UNK> </s>	2.7213387683753076
+<s> one must speak a little <UNK> you know </s>	10.000000000000002
+<s> this mrs </s>	316.22776601683796
+<s> i knew nothing at all of lady catherine <UNK> connections </s>	6.812920690579612
+<s> gardiner himself did not expect any success from this <UNK> <UNK> but as his brother was eager in it <UNK> he meant to assist him in <UNK> it </s>	2.154434690031884
+<s> my poor father <UNK> how he must have felt it <UNK> <UNK> never saw any one so shocked </s>	3.1622776601683795
+<s> his <UNK> had prevented his <UNK> on his own judgment in so anxious a case <UNK> but his <UNK> on mine <UNK> made every thing easy </s>	2.2758459260747883
+<s> <UNK> i expect it to be otherwise <UNK> said she </s>	6.812920690579612
+<s> he thought too well of himself to comprehend on what motive his cousin could refuse him <UNK> and though his pride was hurt <UNK> he suffered in no other way </s>	2.0535250264571463
+<s> <UNK> mrs </s>	316.22776601683796
+<s> hurst and mr </s>	100.00000000000004
+<s> mrs </s>	2154.4346900318833
+<s> <UNK> <UNK> you will not mind my <UNK> mr </s>	8.111308307896872
+<s> <UNK> <UNK> my word <UNK> caroline <UNK> i should think it more possible to get pemberley by purchase than by <UNK> </s>	2.7213387683753076
+<s> e </s>	2154.4346900318833
+<s> in the <UNK> of her feelings she resolved on one effort more <UNK> and <UNK> turning to elizabeth <UNK> said <UNK> <UNK> eliza bennet <UNK> let me persuade you to follow my example <UNK> and take a turn about the room </s>	1.7082763938087104
+<s> <UNK> <UNK> she been <UNK> <UNK> i do not remember her name among the ladies at <UNK> </s>	3.3598182862837818
+<s> <UNK> <UNK> is more <UNK> <UNK> said darcy <UNK> <UNK> the appearance of <UNK> </s>	4.216965034285822
+<s> but i ought to beg his pardon <UNK> for i have no right to suppose that bingley was the person meant </s>	2.7213387683753076
+<s> it is the greatest of <UNK> when miss de bourgh comes in </s>	5.179474679231211
+<s> collins very <UNK> <UNK> i cannot imagine that her ladyship would at all <UNK> of you </s>	3.593813663804627
+<s> neither had any thing occurred in the intelligence of their lambton friends <UNK> that could <UNK> <UNK> its weight </s>	2.99357729472049
+<s> <UNK> the <UNK> protested that she should not <UNK> she continued to declare that she would <UNK> and the <UNK> <UNK> only with the visit </s>	2.346228848142263
+<s> gardiner <UNK> <UNK> begin to be of your uncle <UNK> opinion </s>	5.878016072274913
+<s> had she not seen him in derbyshire <UNK> she might have supposed him capable of coming there <UNK> with no other view than what was acknowledged <UNK> but she still thought him partial to jane <UNK> and she <UNK> as to the greater probability of his coming there <UNK> his friend <UNK> permission <UNK> or being <UNK> enough to come without it </s>	1.4330125702369627
+<s> there is nothing he would not do for her </s>	8.111308307896872
+<s> <UNK> <UNK> motive for <UNK> you <UNK> is as follows </s>	6.812920690579612
+<s> elizabeth <UNK> as they drove along <UNK> watched for the first appearance of pemberley woods with some <UNK> <UNK> and when at length they turned in at the lodge <UNK> her spirits were in a high <UNK> </s>	1.8047217668271704
+<s> she <UNK> the days that must <UNK> before their invitation could be sent <UNK> hopeless of seeing him before </s>	2.99357729472049
+<s> f </s>	2154.4346900318833
+<s> why could not he keep on <UNK> with you <UNK> as his father did before him <UNK> <UNK> <UNK> indeed <UNK> he does seem to have had some <UNK> <UNK> on that head <UNK> as you will hear </s>	1.778279410038923
+<s> let <UNK> first <UNK> be less <UNK> than those of the <UNK> of <UNK> </s>	4.216965034285822
+<s> but _now_ we may be silent </s>	17.78279410038923
+<s> it was not till the <UNK> <UNK> when he joined them at tea <UNK> that elizabeth ventured to introduce the subject <UNK> and then <UNK> on her <UNK> expressing her <UNK> for what he must have <UNK> <UNK> he replied <UNK> <UNK> nothing of that </s>	1.632172128563275
+<s> darcy might have done as well </s>	17.78279410038923
+<s> e </s>	2154.4346900318833
+<s> <UNK> <UNK> am not likely to leave kent for some time </s>	5.878016072274913
+<s> nor was her respect for him <UNK> though it made her more quiet <UNK> at all likely to make her more elegant </s>	2.610157215682537
+<s> they were soon gone again <UNK> rising from their <UNK> with an <UNK> which took their brother by surprise <UNK> and <UNK> off as if eager to escape from mrs </s>	2.0535250264571463
+<s> <UNK> <UNK> where they like women of fortune <UNK> which i think they very often do </s>	3.593813663804627
+<s> he believed him to be imprudent and <UNK> </s>	10.000000000000002
+<s> you have liked many a <UNK> person </s>	12.915496650148839
+<s> <UNK> they were all astonished <UNK> and mr </s>	10.000000000000002
+<s> they were of a respectable family in the north of <UNK> <UNK> a circumstance more <UNK> <UNK> on their <UNK> than that their brother <UNK> fortune and their own had been <UNK> by <UNK> </s>	1.8957356524063758
+<s> mr </s>	2154.4346900318833
+<s> human nature is so <UNK> to fall into it <UNK> no <UNK> lizzy <UNK> let me once in my life feel how much i have been to blame </s>	2.154434690031884
+<s> darcy had voluntarily done for lydia </s>	17.78279410038923
+<s> chapter <UNK> </s>	316.22776601683796
+<s> darcy called on his sister to join him in expressing their wish of seeing mr </s>	3.874675120456131
+<s> but he is <UNK> beyond all comparison <UNK> the most agreeable man i ever saw and if he <UNK> really attached to me i believe it will be better that he should not </s>	1.93069772888325
+<s> bennet <UNK> <UNK> will wait on him of course </s>	8.111308307896872
+<s> and mrs </s>	316.22776601683796
+<s> to know that her daughter would be married was enough </s>	6.812920690579612
+<s> <UNK> <UNK> may as well call it impertinence at once </s>	6.812920690579612
+<s> e below </s>	316.22776601683796
+<s> we are each of an <UNK> <UNK> <UNK> disposition <UNK> unwilling to speak <UNK> unless we expect to say something that will <UNK> the whole room <UNK> and be <UNK> down to <UNK> with all the <UNK> of a <UNK> </s>	1.7301957388458942
+<s> after sitting for a moment in silence <UNK> she said very <UNK> to elizabeth <UNK> <UNK> hope you are well <UNK> miss bennet </s>	2.51188643150958
+<s> he seldom appeared really <UNK> </s>	26.826957952797255
+<s> i did not think mrs </s>	26.826957952797255
+<s> they are wanted in the <UNK> <UNK> mr </s>	10.000000000000002
+<s> wickham <UNK> and of seeing a <UNK> of every thing in mr </s>	5.179474679231211
+<s> but i believe your opinion of him would in general <UNK> and perhaps you would not express it quite so strongly <UNK> else </s>	2.51188643150958
+<s> bennet <UNK> <UNK> nothing can clear mr </s>	12.915496650148839
+<s> in the <UNK> <UNK> the two elder miss bennets were able to be for half an hour by themselves <UNK> and elizabeth instantly <UNK> herself of the opportunity of making many enquiries <UNK> which jane was equally eager to satisfy </s>	1.7301957388458942
+<s> but when they had <UNK> <UNK> he said to her <UNK> <UNK> </s>	5.179474679231211
+<s> i often tell young ladies <UNK> that no <UNK> in music is to be <UNK> <UNK> without constant <UNK> </s>	2.99357729472049
+<s> wickham <UNK> we are brother and sister <UNK> you know </s>	6.812920690579612
+<s> you thought the <UNK> must not hear <UNK> as if he cared <UNK> i dare say he often <UNK> worse things said than i am going to say </s>	2.154434690031884
+<s> <UNK> <UNK> <UNK> where <UNK> where is my uncle <UNK> cried elizabeth <UNK> <UNK> from her seat as she finished the letter <UNK> in eagerness to follow him <UNK> without <UNK> a moment of the time so <UNK> <UNK> but as she reached the door <UNK> it was opened by a servant <UNK> and mr </s>	1.4977474763452012
+<s> when first he came in <UNK> he had spoken to her but little <UNK> but every five minutes seemed to be giving her more of his attention </s>	2.212216291070449
+<s> it was <UNK> moreover <UNK> such a <UNK> thing for her younger daughters <UNK> as jane <UNK> marrying so greatly must throw them in the way of other rich men <UNK> and <UNK> <UNK> it was so pleasant at her time of life to be able to <UNK> her single daughters to the care of their sister <UNK> that she might not be obliged to go into company more than she liked </s>	1.365007806546014
+<s> collins </s>	2154.4346900318833
+<s> but not long was the <UNK> of <UNK> <UNK> for when supper was over <UNK> <UNK> was talked of <UNK> and she had the mortification of seeing mary <UNK> after very little <UNK> <UNK> preparing to oblige the company </s>	1.7534865500829584
+<s> she performed her part indeed without much <UNK> <UNK> but mrs </s>	5.878016072274913
+<s> nothing could give either bingley or myself more delight </s>	8.111308307896872
+<s> her mother only <UNK> her for being <UNK> </s>	10.000000000000002
+<s> <UNK> <UNK> is very strange </s>	26.826957952797255
+<s> gardiner soon wrote again to his brother </s>	12.915496650148839
+<s> bennet was quite <UNK> </s>	46.415888336127786
+<s> <UNK> am glad i <UNK> my <UNK> <UNK> if it is only for the fun of having another <UNK> <UNK> well <UNK> now let us be quite comfortable and <UNK> <UNK> and talk and laugh all the way home </s>	1.7534865500829584
+<s> on saturday he came again </s>	26.826957952797255
+<s> but <UNK> seems the fashion </s>	26.826957952797255
+<s> <UNK> certainly saw mr </s>	46.415888336127786
+<s> <UNK> is perfectly well behaved <UNK> <UNK> <UNK> and <UNK> <UNK> said her uncle </s>	4.216965034285822
+<s> but i hope you will not mind it <UNK> it is all for jane <UNK> sake <UNK> you know <UNK> and there is no occasion for talking to him <UNK> except just now and then </s>	1.8632463119315603
+<s> he had <UNK> for a while every hope of happiness for the most affectionate <UNK> generous heart in the world <UNK> and no one could say how <UNK> an evil he might have <UNK> </s>	1.8957356524063758
+<s> lydia was occasionally a visitor there <UNK> when her husband was gone to enjoy himself in london or <UNK> <UNK> and with the <UNK> they both of them frequently staid so long <UNK> that even bingley <UNK> good humour was overcome <UNK> and he proceeded so far as to <UNK> of giving them a hint to be gone </s>	1.4677992676220695
+<s> it was all over before i arrived <UNK> so my curiosity was not so <UNK> <UNK> as <UNK> <UNK> seems to have been </s>	2.51188643150958
+<s> she asked her at different times <UNK> how many sisters she had <UNK> whether they were <UNK> or younger than herself <UNK> whether any of them were likely to be married <UNK> whether they were handsome <UNK> where they had been <UNK> <UNK> what carriage her father kept <UNK> and what had been her mother <UNK> <UNK> name <UNK> elizabeth felt all the impertinence of her questions <UNK> but answered them very <UNK> </s>	1.3593563908785256
+<s> the letter was to this effect <UNK> <UNK> dear lizzy <UNK> <UNK> wish you joy </s>	3.874675120456131
+<s> the <UNK> of rosings park was their <UNK> on one side </s>	5.878016072274913
+<s> <UNK> <UNK> did not i mention it to you <UNK> mr </s>	5.878016072274913
+<s> it is a great comfort to have you so rich <UNK> and when you have nothing else to do <UNK> i hope you will think of us </s>	2.212216291070449
+<s> in his library he had been always sure of leisure and <UNK> <UNK> and though prepared <UNK> as he told elizabeth <UNK> to meet with folly and <UNK> in every other room in the house <UNK> he was used to be free from them there <UNK> his civility <UNK> therefore <UNK> was most <UNK> in <UNK> mr </s>	1.4773776525985112
+<s> <UNK> may <UNK> in fact <UNK> carry a very favourable report of us into hertfordshire <UNK> my dear cousin </s>	2.99357729472049
+<s> the <UNK> of the day were too full of interest to leave elizabeth much attention for any of these new friends <UNK> and she could do nothing but think <UNK> and think with wonder <UNK> of mr </s>	1.8047217668271704
+<s> darcy <UNK> you will never recommend yourself to his friend by so doing </s>	4.641588833612779
+<s> wickham <UNK> after a few moments <UNK> <UNK> his <UNK> a <UNK> which mr </s>	4.216965034285822
+<s> in lydia <UNK> <UNK> <UNK> a visit to brighton <UNK> every possibility of <UNK> happiness </s>	3.874675120456131
+<s> <UNK> <UNK> </s>	316.22776601683796
+<s> jane was anxious that no difference should be perceived in her at all <UNK> and was really persuaded that she talked as much as ever </s>	2.346228848142263
+<s> <UNK> no scheme could have been more agreeable to elizabeth <UNK> and her <UNK> of the invitation was most ready and grateful </s>	2.610157215682537
+<s> <UNK> a long <UNK> followed this <UNK> <UNK> but mr </s>	6.812920690579612
+<s> the officers of the --shire were in general a very <UNK> <UNK> gentleman like set <UNK> and the best of them were of the present party <UNK> but mr </s>	2.1017480113324885
+<s> elizabeth could never address her without feeling that all the comfort of intimacy was over <UNK> and <UNK> though determined not to <UNK> as a <UNK> <UNK> it was for the sake of what had been <UNK> rather than what was </s>	1.7082763938087104
+<s> she <UNK> him more than he liked and miss bingley was <UNK> to _her_ <UNK> and more teazing than usual to himself </s>	2.610157215682537
+<s> perhaps this <UNK> <UNK> this <UNK> <UNK> was <UNK> me </s>	6.812920690579612
+<s> general information about project gutenberg tm electronic works </s>	10.000000000000002
+<s> his first object with her <UNK> he acknowledged <UNK> had been to persuade her to quit her present <UNK> situation <UNK> and return to her friends as soon as they could be prevailed on to receive her <UNK> <UNK> his assistance <UNK> as far as it would go </s>	1.5848931924611136
+<s> <UNK> <UNK> lizzy <UNK> it cannot be </s>	12.915496650148839
+<s> <UNK> <UNK> <UNK> if you are so serious about it <UNK> i shall consider the matter as absolutely settled </s>	2.99357729472049
+<s> could she have seen half as much love in mr </s>	6.812920690579612
+<s> upon this <UNK> <UNK> the youngest of her daughters put herself forward </s>	5.179474679231211
+<s> i do not wish to avoid the walk </s>	10.000000000000002
+<s> with an air of indifference he soon afterwards added <UNK> <UNK> long did you say that he was at rosings <UNK> <UNK> three weeks </s>	2.4244620170823286
+<s> <UNK> <UNK> am not afraid of you <UNK> said he <UNK> <UNK> </s>	5.179474679231211
+<s> their powers of conversation were considerable </s>	17.78279410038923
+<s> had not my own feelings decided against you <UNK> had they been indifferent <UNK> or had they even been favourable <UNK> do you think that any consideration would <UNK> me to accept the man <UNK> who has been the means of <UNK> <UNK> perhaps for ever <UNK> the happiness of a most <UNK> sister <UNK> as she pronounced these words <UNK> mr </s>	1.4330125702369627
+<s> he had been some time with mr </s>	12.915496650148839
+<s> you refuse to <UNK> the claims of duty <UNK> honour <UNK> and gratitude </s>	4.641588833612779
+<s> if that had been <UNK> <UNK> she would not have gone so soon </s>	4.641588833612779
+<s> darcy <UNK> on the contrary <UNK> had seen a collection of people in whom there was little beauty and no fashion <UNK> for none of whom he had felt the smallest interest <UNK> and from none received either attention or pleasure </s>	1.7082763938087104
+<s> bennet <UNK> who could by no means wish for so <UNK> a return <UNK> immediately said <UNK> <UNK> is there not danger of lady catherine <UNK> disapprobation here <UNK> my good sir <UNK> you had better neglect your relations <UNK> than run the <UNK> of <UNK> your patroness </s>	1.5848931924611136
+<s> her mind received knowledge which had never before <UNK> in her way </s>	5.179474679231211
+<s> i was so vexed to see him stand up with her <UNK> but <UNK> however <UNK> he did not admire her at all <UNK> indeed <UNK> nobody can <UNK> you know <UNK> and he seemed quite struck with jane as she was going down the dance </s>	1.615598098439874
+<s> collins <UNK> out <UNK> with a <UNK> air <UNK> the fine <UNK> and finished <UNK> <UNK> they followed the servants through an <UNK> <UNK> <UNK> to the room where lady catherine <UNK> her daughter <UNK> and mrs </s>	1.8047217668271704
+<s> bingley has not much idea of ever returning to netherfield again <UNK> <UNK> have never heard him say so <UNK> but it is probable that he may spend very little of his time there in future </s>	1.8329807108324359
+<s> wickham <UNK> by each of them <UNK> and in the mean time <UNK> she went after dinner to shew her <UNK> and boast of being married <UNK> to mrs </s>	2.1017480113324885
+<s> collins has made you an offer of marriage </s>	10.000000000000002
+<s> darcy </s>	2154.4346900318833
+<s> <UNK> as elizabeth had no longer any interest of her own to pursue <UNK> she turned her attention almost entirely on her sister and mr </s>	2.346228848142263
+<s> one enjoyment was certain that of <UNK> as companions <UNK> a <UNK> which <UNK> health and temper to bear <UNK> cheerfulness to <UNK> every pleasure and affection and intelligence <UNK> which might supply it among themselves if there were <UNK> <UNK> </s>	1.7082763938087104
+<s> i cannot <UNK> him of that duty <UNK> nor could i think well of the man who should <UNK> an occasion of <UNK> his respect towards any body connected with the family </s>	1.9684194472866121
+<s> she hardly knew how to suppose that she could be an object of admiration to so great a man <UNK> and yet that he should look at her because he <UNK> her <UNK> was still more strange </s>	1.8047217668271704
+<s> <UNK> <UNK> will make your ladyship <UNK> situation at present more <UNK> <UNK> but it will have no effect on _me_ </s>	2.7213387683753076
+<s> but we are all <UNK> to error </s>	12.915496650148839
+<s> but as to your other objection <UNK> i am afraid it will hardly hold good </s>	3.874675120456131
+<s> <UNK> looks <UNK> and <UNK> </s>	26.826957952797255
+<s> he concluded with <UNK> to her the strength of that attachment which <UNK> in spite of all his endeavours <UNK> he had found impossible to <UNK> <UNK> and with expressing his hope that it would now be <UNK> by her <UNK> of his hand </s>	1.6496480740980204
+<s> <UNK> therefore do not be alarmed if you should hear of his having been to me and <UNK> a <UNK> <UNK> and head <UNK> there is not much the matter with me </s>	1.9684194472866121
+<s> <UNK> occupied in observing mr </s>	26.826957952797255
+<s> could there be <UNK> <UNK> <UNK> is not general <UNK> the very <UNK> of love <UNK> <UNK> <UNK> yes <UNK> of that kind of love which i suppose him to have felt </s>	1.9684194472866121
+<s> <UNK> they all exclaimed against such <UNK> ideas <UNK> and mr </s>	5.878016072274913
+<s> but i shall not <UNK> to <UNK> <UNK> that the <UNK> of your sister <UNK> countenance and air was such <UNK> as might have given the most <UNK> <UNK> <UNK> a conviction that <UNK> however amiable her temper <UNK> her heart was not likely to be easily <UNK> </s>	1.5848931924611136
+<s> philips <UNK> <UNK> was another <UNK> and perhaps a greater tax on his forbearance <UNK> and though mrs </s>	3.1622776601683795
+<s> elizabeth found that nothing was <UNK> this great lady <UNK> attention <UNK> which could <UNK> her with an occasion of <UNK> to others </s>	2.51188643150958
+<s> her mother <UNK> <UNK> <UNK> <UNK> her <UNK> and welcomed her with <UNK> <UNK> gave her hand with an affectionate smile to wickham <UNK> who followed his lady <UNK> and wished them both joy <UNK> with an <UNK> which shewed no doubt of their happiness </s>	1.632172128563275
+<s> five thousand pounds was settled by marriage <UNK> on mrs </s>	6.812920690579612
+<s> forster called her <UNK> and they were going to the <UNK> <UNK> from her <UNK> with her sister <UNK> there was still less to be learnt for her letters to kitty <UNK> though rather longer <UNK> were much too full of lines under the words to be made public </s>	1.5706464294715548
+<s> i always say that nothing is to be done in education without steady and <UNK> <UNK> <UNK> and nobody but a governess can give it </s>	2.346228848142263
+<s> with _them_ he is remarkably agreeable </s>	17.78279410038923
+<s> <UNK> <UNK> </s>	316.22776601683796
+<s> <UNK> his wife represented to him how absolutely necessary such an attention would be from all the <UNK> gentlemen <UNK> on his returning to netherfield </s>	2.346228848142263
+<s> but at least it <UNK> <UNK> that _she_ was serious in the object of her journey </s>	3.593813663804627
+<s> my <UNK> <UNK> according to this <UNK> <UNK> are <UNK> indeed <UNK> but perhaps <UNK> added he <UNK> <UNK> in his walk <UNK> and turning towards her <UNK> <UNK> <UNK> might have been <UNK> <UNK> had not your pride been hurt by my <UNK> <UNK> of the <UNK> that had long prevented my <UNK> any serious design </s>	1.4773776525985112
+<s> <UNK> she found that she was to receive no other answer and <UNK> after a short pause <UNK> added <UNK> <UNK> think i have understood that mr </s>	2.212216291070449
+<s> <UNK> we must <UNK> this happy conclusion <UNK> she added <UNK> <UNK> a great <UNK> <UNK> to his kindness </s>	2.99357729472049
+<s> she was engaged one day as she walked <UNK> in re <UNK> jane <UNK> last letter <UNK> and dwelling on some <UNK> which proved that jane had not written in spirits <UNK> when <UNK> instead of being again surprised by mr </s>	1.7082763938087104
+<s> <UNK> <UNK> dear aunt <UNK> this is being serious indeed </s>	6.812920690579612
+<s> she felt all the perverseness of the <UNK> that should bring him where no one else was brought <UNK> and to prevent its ever <UNK> again <UNK> took care to inform him at first <UNK> that it was a favourite <UNK> of <UNK> </s>	1.6681005372000588
+<s> when she is secure of him <UNK> there will be leisure for <UNK> in love as much as she chuses </s>	2.848035868435802
+<s> but who was your mother <UNK> who are your <UNK> and <UNK> <UNK> do not imagine me ignorant of their <UNK> </s>	2.7213387683753076
+<s> bingley to _her_ </s>	100.00000000000004
+<s> the necessity must be <UNK> and farther apology would be <UNK> </s>	5.878016072274913
+<s> <UNK> <UNK> is a very fine looking woman <UNK> and her calling here was <UNK> civil <UNK> for she only came <UNK> i suppose <UNK> to tell us the collinses were well </s>	1.9684194472866121
+<s> i am most seriously <UNK> </s>	26.826957952797255
+<s> it was possible <UNK> however <UNK> that some of his companions in the --shire <UNK> might be able to give more information <UNK> and <UNK> though she was not very <UNK> in <UNK> it <UNK> the application was a something to look forward to </s>	1.6496480740980204
+<s> it was rather small <UNK> but well <UNK> and <UNK> <UNK> and every thing was fitted up and <UNK> with a <UNK> and <UNK> of which elizabeth gave charlotte all the credit </s>	1.9684194472866121
+<s> he was too happy <UNK> however <UNK> to need much attention <UNK> and <UNK> for the others <UNK> the business of love making relieved them from a great deal of his company </s>	1.9684194472866121
+<s> the children <UNK> two girls of six and eight years old <UNK> and two younger <UNK> <UNK> were to be left under the particular care of their cousin jane <UNK> who was the general favourite <UNK> and whose steady sense and <UNK> of temper exactly <UNK> her for attending to them in every way <UNK> them <UNK> playing with them <UNK> and <UNK> them </s>	1.4174741629268053
+<s> i had not the smallest idea of their being ever felt in such a way </s>	3.874675120456131
+<s> her <UNK> attention was <UNK> <UNK> she longed to hear more <UNK> and was grateful to her uncle for saying <UNK> <UNK> are very few people of whom so much can be said </s>	1.93069772888325
+<s> wholly <UNK> to her sister <UNK> feelings <UNK> lydia <UNK> about the house in <UNK> <UNK> <UNK> calling for every one <UNK> congratulations <UNK> and laughing and talking with more <UNK> than ever <UNK> <UNK> the <UNK> kitty continued in the parlour <UNK> at her <UNK> in terms as unreasonable as her <UNK> was <UNK> </s>	1.4977474763452012
+<s> <UNK> this is always the way with him <UNK> she added </s>	5.878016072274913
+<s> nor was it under many <UNK> many minutes <UNK> that she could comprehend what she heard <UNK> though not in general <UNK> to credit what was for the advantage of her family <UNK> or that came in the <UNK> of a <UNK> to any of them </s>	1.615598098439874
+<s> chapter <UNK> </s>	316.22776601683796
+<s> <UNK> <UNK> see no occasion for that </s>	12.915496650148839
+<s> collins <UNK> was a most <UNK> picture <UNK> and to the <UNK> of a friend <UNK> herself and <UNK> in her esteem <UNK> was added the distressing conviction that it was impossible for that friend to be tolerably happy in the <UNK> she had chosen </s>	1.632172128563275
+<s> <UNK> elizabeth smiled </s>	100.00000000000004
+<s> <UNK> <UNK> am afraid you do not like your <UNK> </s>	6.812920690579612
+<s> bennet <UNK> heart <UNK> but for the mortifying <UNK> of his <UNK> it all as his own future property </s>	2.99357729472049
+<s> darcy had at first scarcely allowed her to be pretty <UNK> he had looked at her without admiration at the ball <UNK> and when they next met <UNK> he looked at her only to <UNK> </s>	1.8632463119315603
+<s> here are officers enough at meryton to <UNK> all the young ladies in the country </s>	3.874675120456131
+<s> how differently did every thing now appear in which he was concerned <UNK> his attentions to miss king were now the consequence of views <UNK> and <UNK> <UNK> <UNK> and the <UNK> of her fortune proved no longer the <UNK> of his wishes <UNK> but his eagerness to <UNK> at any thing </s>	1.53174046370208
+<s> a fortnight <UNK> acquaintance is certainly very little </s>	10.000000000000002
+<s> collins <UNK> in <UNK> the civility of mr </s>	10.000000000000002
+<s> bennet <UNK> ill humour or ill health </s>	12.915496650148839
+<s> it was <UNK> on the contrary <UNK> exactly <UNK> to make her understand her own wishes <UNK> and never had she so <UNK> felt that she could have loved him <UNK> as now <UNK> when all love must be vain </s>	1.7301957388458942
+<s> your <UNK> <UNK> <UNK> </s>	46.415888336127786
+<s> indeed you must go <UNK> for it will be impossible for <UNK> to visit him <UNK> if you do not </s>	2.848035868435802
+<s> they stood a little <UNK> while he was talking to their niece <UNK> who <UNK> astonished and <UNK> <UNK> scarcely dared <UNK> her eyes to his face <UNK> and knew not what answer she returned to his civil enquiries after her family </s>	1.6876124757881479
+<s> if you received the work <UNK> <UNK> the person or <UNK> <UNK> it to you may choose to give you a second opportunity to receive the work <UNK> in <UNK> of a refund </s>	1.93069772888325
+<s> elizabeth <UNK> attended her </s>	46.415888336127786
+<s> bennet <UNK> <UNK> as <UNK> as may be <UNK> and <UNK> no more for us than if we were at <UNK> <UNK> provided she can have her own way </s>	2.1017480113324885
+<s> i was right <UNK> therefore <UNK> my last letter had never reached her </s>	4.641588833612779
+<s> collins <UNK> <UNK> for any consideration </s>	17.78279410038923
+<s> can he be a sensible man <UNK> sir <UNK> <UNK> <UNK> my dear <UNK> i think not </s>	3.3598182862837818
+<s> her enquiries after her sister were not very <UNK> answered </s>	6.812920690579612
+<s> let them triumph over us at a distance <UNK> and be satisfied </s>	5.179474679231211
+<s> when they had gained their own room <UNK> jane taking out the letter <UNK> said <UNK> <UNK> is from caroline bingley <UNK> what it <UNK> <UNK> has surprised me a good deal </s>	1.9684194472866121
+<s> his present pursuit could not make him forget that elizabeth had been the first to <UNK> and to deserve his attention <UNK> the first to listen and to pity <UNK> the first to be admired <UNK> and in his manner of <UNK> her <UNK> <UNK> wishing her every enjoyment <UNK> <UNK> her of what she was to expect in lady catherine de bourgh <UNK> and <UNK> their opinion of her their opinion of every body would always <UNK> <UNK> there was a solicitude <UNK> an interest which she felt must ever <UNK> her to him with a most sincere regard <UNK> and she parted from him convinced <UNK> that whether married or single <UNK> he must always be her <UNK> of the amiable and pleasing </s>	1.1987818459583777
+<s> my father <UNK> however <UNK> is partial to mr </s>	8.111308307896872
+<s> bingley will like it lizzy </s>	26.826957952797255
+<s> she longed to see mrs </s>	26.826957952797255
+<s> mary and kitty were both with mrs </s>	12.915496650148839
+<s> in his present behaviour to herself <UNK> moreover <UNK> she had a fresh source of displeasure <UNK> for the inclination he soon <UNK> of <UNK> those attentions which had marked the early part of their acquaintance <UNK> could only <UNK> <UNK> after what had since passed <UNK> to <UNK> her </s>	1.5570684047537309
+<s> the express was sent off directly </s>	17.78279410038923
+<s> <UNK> is mr </s>	100.00000000000004
+<s> their other aunt also <UNK> them frequently <UNK> and always <UNK> as she said <UNK> with the design of <UNK> and <UNK> them up <UNK> though as she never came without <UNK> some fresh instance of wickham <UNK> <UNK> or <UNK> <UNK> she seldom went away without leaving them more <UNK> than she found them </s>	1.4977474763452012
+<s> i am sure we never read the same <UNK> or not with the same feelings </s>	3.874675120456131
+<s> in a few days more <UNK> we may <UNK> some news of them <UNK> and till we know that they are not married <UNK> and have no design of marrying <UNK> do not let us give the matter over as lost </s>	1.7082763938087104
+<s> by you <UNK> i was properly <UNK> </s>	12.915496650148839
+<s> when she remembered the style of his address <UNK> she was still full of indignation <UNK> but when she considered how <UNK> she had <UNK> and <UNK> him <UNK> her anger was turned against herself <UNK> and his disappointed feelings became the object of compassion </s>	1.632172128563275
+<s> he had found the law a most <UNK> study <UNK> and was now absolutely resolved on being <UNK> <UNK> if i would present him to the living in question of which he trusted there could be little doubt <UNK> as he was well assured that i had no other person to provide for <UNK> and i could not have forgotten my <UNK> father <UNK> <UNK> </s>	1.41011239906908
+<s> his former acquaintance had been <UNK> <UNK> but since he had been in the militia <UNK> it did not appear that he was on terms of particular friendship with any of them </s>	1.9684194472866121
+<s> her father was walking about the room <UNK> looking grave and anxious </s>	5.179474679231211
+<s> her favourite walk <UNK> and where she frequently went while the others were calling on lady catherine <UNK> was along the open <UNK> which <UNK> that side of the park <UNK> where there was a <UNK> <UNK> <UNK> <UNK> which no one seemed to value but herself <UNK> and where she felt beyond the reach of lady catherine <UNK> curiosity </s>	1.4497406703726319
+<s> she was in hopes that the evening would afford some opportunity of bringing them together <UNK> that the whole of the visit would not pass away without <UNK> them to enter into something more of conversation <UNK> than the <UNK> <UNK> <UNK> attending his entrance </s>	1.632172128563275
+<s> philips <UNK> and was <UNK> by her <UNK> <UNK> most <UNK> <UNK> with coffee and <UNK> </s>	3.593813663804627
+<s> <UNK> <UNK> <UNK> said mr </s>	26.826957952797255
+<s> <UNK> <UNK> said she <UNK> <UNK> this first meeting is over <UNK> i feel perfectly easy </s>	3.593813663804627
+<s> bennet said only <UNK> <UNK> <UNK> nonsense <UNK> <UNK> can be the meaning of that <UNK> <UNK> <UNK> cried he </s>	2.848035868435802
+<s> her <UNK> <UNK> quite <UNK> my notice </s>	12.915496650148839
+<s> if it be not so <UNK> let mr </s>	10.000000000000002
+<s> which will not be yours till after your mother <UNK> <UNK> <UNK> is all that you may ever be <UNK> to </s>	2.7213387683753076
+<s> <UNK> or <UNK> <UNK> <UNK> </s>	26.826957952797255
+<s> <UNK> mr </s>	316.22776601683796
+<s> charlotte did not stay much longer <UNK> and elizabeth was then left to <UNK> on what she had heard </s>	2.99357729472049
+<s> they <UNK> it by a <UNK> <UNK> <UNK> in character with the general air of the scene <UNK> it was a spot less <UNK> than any they had yet <UNK> <UNK> and the <UNK> <UNK> here <UNK> into a <UNK> <UNK> allowed room only for the <UNK> <UNK> and a <UNK> walk <UNK> the <UNK> <UNK> <UNK> which <UNK> it </s>	1.4497406703726319
+<s> the whole party before them <UNK> indeed <UNK> excited a lively attention </s>	5.179474679231211
+<s> the possibility of his having really <UNK> such <UNK> <UNK> was enough to interest all her <UNK> feelings <UNK> and nothing therefore remained to be done <UNK> but to think well of them both <UNK> to <UNK> the conduct of each <UNK> and throw into the account of <UNK> or mistake <UNK> whatever could not be otherwise explained </s>	1.4677992676220695
+<s> an invitation to dinner was soon afterwards <UNK> <UNK> and already had mrs </s>	4.641588833612779
+<s> she said no more <UNK> and they went down the other dance and parted in silence <UNK> on each side <UNK> <UNK> though not to an equal degree <UNK> for in darcy <UNK> <UNK> there was a tolerable <UNK> feeling towards her <UNK> which soon <UNK> her pardon <UNK> and directed all his anger against another </s>	1.4873521072935114
+<s> <UNK> <UNK> mr </s>	100.00000000000004
+<s> bennet and his daughters saw all the advantages of wickham <UNK> removal from the --shire <UNK> as <UNK> as mr </s>	2.848035868435802
+<s> he owed a good deal in the town <UNK> but his debts of honour were still more <UNK> </s>	3.1622776601683795
+<s> darcy related the mistake which had <UNK> his <UNK> on miss bennet <UNK> and after sitting a few minutes longer without saying much to any body <UNK> went away </s>	2.1017480113324885
+<s> their other engagements were few <UNK> as the style of living of the neighbourhood in general <UNK> was beyond the collinses <UNK> reach </s>	2.51188643150958
+<s> her heart had been but <UNK> <UNK> <UNK> and her vanity was satisfied with believing that _she_ would have been his only choice <UNK> had fortune <UNK> it </s>	2.154434690031884
+<s> who <UNK> about such a <UNK> little <UNK> thing <UNK> elizabeth was shocked to think that <UNK> however incapable of such <UNK> of <UNK> herself <UNK> the <UNK> of the <UNK> was little other than her own <UNK> had formerly <UNK> and fancied <UNK> <UNK> as soon as all had <UNK> <UNK> and the elder <UNK> paid <UNK> the carriage was ordered <UNK> and after some <UNK> <UNK> the whole party <UNK> with all their <UNK> <UNK> <UNK> <UNK> and <UNK> <UNK> and the <UNK> addition of kitty <UNK> and lydia <UNK> <UNK> <UNK> were seated in it </s>	1.2589254117941673
+<s> i must now mention a circumstance which i would wish to forget myself <UNK> and which no obligation less than the present should <UNK> me to <UNK> to any human being </s>	2.0092330025650473
+<s> collins </s>	2154.4346900318833
+<s> <UNK> <UNK> do not <UNK> for my own amusement <UNK> replied kitty <UNK> </s>	4.641588833612779
+<s> the whole party have left netherfield by this time <UNK> and are on their way to town <UNK> and without any intention of coming back again </s>	2.2758459260747883
+<s> nor was darcy <UNK> <UNK> <UNK> though grateful to her feelings <UNK> capable of <UNK> her for such discovery </s>	2.99357729472049
+<s> her impatience for this second letter was as well <UNK> as impatience generally is </s>	4.216965034285822
+<s> <UNK> <UNK> that i am convinced it will add very greatly to my happiness <UNK> and <UNK> which perhaps i ought to have mentioned <UNK> <UNK> that it is the particular advice and <UNK> of the very noble lady whom i have the honour of calling patroness </s>	1.599858719606058
+<s> <UNK> <UNK> <UNK> <UNK> of <UNK> - except for the <UNK> of <UNK> or refund <UNK> described in paragraph <UNK> <UNK> </s>	2.7213387683753076
+<s> when convinced on that <UNK> <UNK> miss bennet had nothing farther to wish </s>	4.641588833612779
+<s> to work in his garden was one of his most respectable pleasures <UNK> and elizabeth admired the command of countenance with which charlotte talked of the <UNK> of the exercise <UNK> and <UNK> she encouraged it as much as possible </s>	1.7301957388458942
+<s> do not charge a fee for access to <UNK> <UNK> <UNK> displaying <UNK> <UNK> <UNK> <UNK> or distributing any project gutenberg tm works unless you comply with paragraph <UNK> <UNK> </s>	2.0535250264571463
+<s> collins seemed likely to <UNK> into <UNK> <UNK> to the young ladies he certainly was nothing <UNK> but he had still at <UNK> a kind <UNK> in mrs </s>	2.154434690031884
+<s> <UNK> <UNK> what is your success <UNK> she shook her head </s>	5.878016072274913
+<s> collins was walking the whole morning within view of the <UNK> opening into hunsford lane <UNK> in order to have the earliest assurance of it <UNK> and after making his bow as the carriage turned into the park <UNK> hurried home with the great intelligence </s>	1.632172128563275
+<s> he scarcely <UNK> an invitation to stay supper <UNK> and before he went away <UNK> an engagement was formed <UNK> chiefly through his own and mrs </s>	2.2758459260747883
+<s> other books were produced <UNK> and after some <UNK> he chose <UNK> <UNK> <UNK> </s>	4.216965034285822
+<s> he has children of his own <UNK> and may have more </s>	5.878016072274913
+<s> such a charming man <UNK> so handsome <UNK> so tall <UNK> oh <UNK> my dear lizzy <UNK> pray <UNK> for my having <UNK> him so much before </s>	2.212216291070449
+<s> bennet give up the point </s>	26.826957952797255
+<s> i will not spend _my_ hours in running after my neighbours every time they go away <UNK> and come back again </s>	2.7213387683753076
+<s> many smiled <UNK> but no one looked more amused than mr </s>	5.878016072274913
+<s> collins <UNK> and whenever any of the <UNK> were disposed to be <UNK> <UNK> <UNK> or too poor <UNK> she <UNK> forth into the village to settle their <UNK> <UNK> silence their <UNK> <UNK> and <UNK> them into <UNK> and <UNK> </s>	1.7082763938087104
+<s> wickham walked into the room <UNK> elizabeth felt that she had neither been seeing him before <UNK> nor thinking of him since <UNK> with the smallest degree of unreasonable admiration </s>	2.0535250264571463
+<s> these parties were acceptable to all <UNK> to avoid a family circle was even more desirable to such as did think <UNK> than such as did not </s>	2.212216291070449
+<s> <UNK> <UNK> beauty you had early <UNK> <UNK> and as for my manners my behaviour to _you_ was at least always <UNK> on the <UNK> <UNK> and i never spoke to you without rather wishing to give you pain than not </s>	1.7082763938087104
+<s> on mr </s>	316.22776601683796
+<s> james <UNK> <UNK> sir william was so completely <UNK> <UNK> by the <UNK> <UNK> him <UNK> that he had but just courage enough to make a very low bow <UNK> and take his seat without saying a word <UNK> and his daughter <UNK> frightened almost out of her <UNK> <UNK> sat on the <UNK> of her chair <UNK> not knowing which way to look </s>	1.4174741629268053
+<s> i can remember no <UNK> of affection on either side <UNK> and had any thing of the kind been <UNK> <UNK> you must be aware that <UNK> is not a family <UNK> on which it could be thrown away </s>	1.7534865500829584
+<s> <UNK> <UNK> it possible <UNK> cried elizabeth <UNK> when she had finished </s>	5.179474679231211
+<s> the evening conversation <UNK> when they were all assembled <UNK> had lost much of its <UNK> <UNK> and almost all its sense <UNK> by the absence of jane and elizabeth </s>	2.0535250264571463
+<s> bennet scarcely spoke at all <UNK> but when the servants were <UNK> <UNK> he thought it time to have some conversation with his <UNK> <UNK> and therefore <UNK> a subject in which he expected him to <UNK> <UNK> by observing that he seemed very fortunate in his patroness </s>	1.5848931924611136
+<s> hear me in silence </s>	46.415888336127786
+<s> you need not send them word at longbourn of my going <UNK> if you do not like it <UNK> for it will make the surprise the greater <UNK> when i write to them <UNK> and <UNK> my name lydia wickham </s>	1.7301957388458942
+<s> <UNK> this naturally introduced a <UNK> from jane on his <UNK> <UNK> and the little value he put on his own good qualities </s>	2.51188643150958
+<s> may i ask whether these pleasing attentions <UNK> from the <UNK> of the moment <UNK> or are the <UNK> of <UNK> study <UNK> <UNK> arise chiefly from what is passing at the time <UNK> and though i sometimes <UNK> myself with <UNK> and <UNK> such little elegant compliments as may be <UNK> to <UNK> occasions <UNK> i always wish to give them as <UNK> an air as possible </s>	1.3894954943731377
+<s> <UNK> this time <UNK> my dearest sister <UNK> you have received my hurried letter <UNK> i wish this may be more <UNK> <UNK> but though not <UNK> for time <UNK> my head is so <UNK> that i cannot answer for being <UNK> </s>	1.6876124757881479
+<s> and mrs </s>	316.22776601683796
+<s> i hate to see you standing about by yourself in this <UNK> manner </s>	4.641588833612779
+<s> <UNK> expected at least that the <UNK> were got into the garden <UNK> and here is nothing but lady catherine and her daughter <UNK> <UNK> <UNK> my dear <UNK> said maria quite shocked at the mistake <UNK> <UNK> is not lady catherine </s>	1.6876124757881479
+<s> <UNK> <UNK> perhaps <UNK> is my favourite <UNK> but i think i shall like _your_ husband quite as well as jane <UNK> </s>	2.610157215682537
+<s> darcy before they had known any thing of the matter </s>	6.812920690579612
+<s> such <UNK> <UNK> as cannot bear to be connected with a little <UNK> <UNK> are not worth a regret </s>	2.99357729472049
+<s> she had even <UNK> to advise him to marry as soon as he could <UNK> provided he chose with <UNK> <UNK> and had once paid him a visit in his humble parsonage <UNK> where she had perfectly <UNK> all the <UNK> he had been making <UNK> and had even <UNK> to <UNK> some herself <UNK> some <UNK> in the <UNK> up stairs </s>	1.4330125702369627
+<s> <UNK> <UNK> have you heard from him often <UNK> <UNK> have heard only once </s>	4.216965034285822
+<s> mr </s>	2154.4346900318833
+<s> <UNK> <UNK> like her appearance <UNK> said elizabeth <UNK> struck with other ideas </s>	4.641588833612779
+<s> as soon as they had <UNK> from the door <UNK> elizabeth was called on by her cousin <UNK> to give her opinion of all that she had seen at rosings <UNK> which <UNK> for charlotte <UNK> sake <UNK> she made more favourable than it really was </s>	1.615598098439874
+<s> it was the favourite wish of _his_ mother <UNK> as well as of her <UNK> </s>	3.874675120456131
+<s> when those dances were over she returned to charlotte lucas <UNK> and was in conversation with her <UNK> when she found herself suddenly addressed by mr </s>	2.2758459260747883
+<s> <UNK> almost <UNK> you the pleasure <UNK> and yet i believe it would be too much for me <UNK> or else i could take it in my way to <UNK> </s>	2.0535250264571463
+<s> <UNK> jane went to him instantly <UNK> <UNK> him <UNK> and thanked him for his goodness </s>	3.593813663804627
+<s> i will read it to you <UNK> my brother left us yesterday <UNK> he <UNK> that the business which took him to london <UNK> might be concluded in three or four days <UNK> but as we are certain it cannot be so <UNK> and at the same time convinced that when charles <UNK> to town <UNK> he will be in no hurry to leave it again <UNK> we have determined on following him thither <UNK> that he may not be obliged to spend his <UNK> hours in a <UNK> <UNK> </s>	1.284386263589743
+<s> <UNK> would not on any account <UNK> with her affectionate solicitude <UNK> or allow her to hear it from any one but myself </s>	2.51188643150958
+<s> _her_ mind was less difficult to <UNK> </s>	12.915496650148839
+<s> <UNK> <UNK> <UNK> and his <UNK> appear by your account to be the same <UNK> said elizabeth <UNK> <UNK> <UNK> i have heard you <UNK> him of nothing worse than of being the son of mr </s>	1.8329807108324359
+<s> <UNK> can be the meaning of this <UNK> said charlotte <UNK> as soon as he was gone </s>	3.3598182862837818
+<s> it is very unlucky <UNK> but as i have actually paid the visit <UNK> we cannot escape the acquaintance now </s>	2.848035868435802
+<s> collins <UNK> she could not help asking him whether he intended to accept mr </s>	4.216965034285822
+<s> <UNK> when the gentlemen had joined them <UNK> and tea was over <UNK> the card tables were placed </s>	3.1622776601683795
+<s> <UNK> should never have said mrs </s>	17.78279410038923
+<s> my excellent father <UNK> about five years ago <UNK> and his attachment to mr </s>	4.216965034285822
+<s> but will they make you happy <UNK> <UNK> you any other objection <UNK> said elizabeth <UNK> <UNK> your belief of my indifference <UNK> <UNK> at all </s>	2.2758459260747883
+<s> she had also to <UNK> how her visit would pass <UNK> the quiet <UNK> of their usual <UNK> <UNK> the <UNK> <UNK> of mr </s>	2.4244620170823286
+<s> the feelings of the person who wrote <UNK> and the person who received it <UNK> are now so <UNK> different from what they were then <UNK> that every unpleasant circumstance attending it <UNK> ought to be forgotten </s>	1.8047217668271704
+<s> <UNK> <UNK> who have <UNK> myself on my <UNK> <UNK> i <UNK> who have <UNK> myself on my abilities <UNK> who have often <UNK> the generous <UNK> of my sister <UNK> and gratified my vanity <UNK> in useless or <UNK> <UNK> </s>	1.7082763938087104
+<s> do your sisters play and <UNK> <UNK> <UNK> of them does </s>	5.878016072274913
+<s> how he lived i know not </s>	17.78279410038923
+<s> collins had only to change from jane to elizabeth and it was soon done done while mrs </s>	3.3598182862837818
+<s> <UNK> when lydia went away <UNK> she promised to write very often and very <UNK> to her mother and kitty <UNK> but her letters were always long expected <UNK> and always very short </s>	1.93069772888325
+<s> <UNK> dearest child <UNK> she cried <UNK> <UNK> can think of nothing else <UNK> ten thousand a year <UNK> and very likely more <UNK> <UNK> as good as a lord <UNK> and a <UNK> <UNK> </s>	1.8632463119315603
+<s> wickham <UNK> who had returned with him the day before from town <UNK> and he was happy to say had accepted a commission in their corps </s>	2.2758459260747883
+<s> bennet <UNK> <UNK> i am glad to find that you do not depend on her <UNK> you </s>	3.3598182862837818
+<s> collins thus addressed her <UNK> <UNK> i do myself the honour of speaking to you next on this subject i shall hope to receive a more favourable answer than you have now given me <UNK> though i am far from <UNK> you of <UNK> at present <UNK> because i know it to be the established <UNK> of your sex to <UNK> a man on the first application <UNK> and perhaps you have even now said as much to encourage my suit as would be <UNK> with the true delicacy of the female character </s>	1.2742749857031337
+<s> you never see a fault in any body </s>	10.000000000000002
+<s> his coming into the country at all <UNK> is a most <UNK> thing indeed <UNK> and i wonder how he could <UNK> to do it </s>	2.346228848142263
+<s> but she had never felt so strongly as now <UNK> the <UNK> which must <UNK> the children of so <UNK> a marriage <UNK> nor ever been so <UNK> aware of the evils <UNK> from so ill judged a direction of <UNK> <UNK> <UNK> which <UNK> used <UNK> might at least have <UNK> the <UNK> of his daughters <UNK> even if incapable of <UNK> the mind of his wife </s>	1.3894954943731377
+<s> i thought miss elizabeth bennet looked remarkably well <UNK> when she came into the room this morning </s>	3.3598182862837818
+<s> <UNK> <UNK> sincerely <UNK> <UNK> </s>	26.826957952797255
+<s> i am glad of one thing <UNK> that he comes alone <UNK> because we shall see the less of him </s>	2.848035868435802
+<s> her daughters were eagerly called to <UNK> of her joy </s>	6.812920690579612
+<s> i told my sister philips so the other day </s>	8.111308307896872
+<s> at length <UNK> in a voice of forced <UNK> <UNK> he said <UNK> <UNK> this is all the reply which i am to have the honour of <UNK> <UNK> i might <UNK> perhaps <UNK> wish to be informed why <UNK> with so little <UNK> at civility <UNK> i am thus <UNK> </s>	1.5441135899948315
+<s> in the first place <UNK> he must make such an agreement for <UNK> as may be <UNK> to himself and not <UNK> to his <UNK> </s>	2.346228848142263
+<s> lady lucas was a very good kind of woman <UNK> not too clever to be a valuable neighbour to mrs </s>	2.848035868435802
+<s> e </s>	2154.4346900318833
+<s> i need not explain myself farther <UNK> and though _we_ know this anxiety to be quite <UNK> <UNK> yet if she <UNK> it <UNK> it will easily account for her behaviour to me <UNK> and so <UNK> dear as he is to his sister <UNK> whatever anxiety she may feel on his <UNK> <UNK> is natural and amiable </s>	1.4677992676220695
+<s> denny addressed them directly <UNK> and <UNK> permission to introduce his friend <UNK> mr </s>	4.216965034285822
+<s> do let the <UNK> of your uncle and aunt philips be placed in the <UNK> at pemberley </s>	3.3598182862837818
+<s> it was the second week in may <UNK> in which the three young ladies set out together from gracechurch street <UNK> for the town of <UNK> in hertfordshire <UNK> and <UNK> as they drew near the <UNK> inn where mr </s>	1.7301957388458942
+<s> <UNK> <UNK> time <UNK> lizzy <UNK> said her mother <UNK> <UNK> would not dance with _him_ <UNK> if i were you </s>	2.7213387683753076
+<s> it was not without an effort <UNK> that she could wait even for longbourn <UNK> before she told her sister of mr </s>	2.610157215682537
+<s> your <UNK> makes me <UNK> <UNK> and if you <UNK> over him much longer <UNK> my heart will be as light as a <UNK> </s>	2.4244620170823286
+<s> elizabeth was in <UNK> </s>	46.415888336127786
+<s> <UNK> <UNK> gracious <UNK> mr </s>	26.826957952797255
+<s> <UNK> <UNK> are mistaken </s>	46.415888336127786
+<s> miss bingley <UNK> attention was quite as much engaged in watching mr </s>	5.179474679231211
+<s> in short <UNK> i will do my best </s>	10.000000000000002
+<s> <UNK> <UNK> <UNK> <UNK> <UNK> mr </s>	17.78279410038923
+<s> a regard for the <UNK> would often make one readily <UNK> to a request <UNK> without waiting for <UNK> to reason one into it </s>	2.4244620170823286
+<s> mr </s>	2154.4346900318833
+<s> of neither darcy nor wickham could she think <UNK> without feeling that she had been blind <UNK> partial <UNK> <UNK> <UNK> <UNK> </s>	2.610157215682537
+<s> <UNK> <UNK> <UNK> that i am sure i shall not <UNK> and i think it was very impertinent of him to write to you at all <UNK> and very <UNK> </s>	2.0535250264571463
+<s> <UNK> <UNK> <UNK> <UNK> cried elizabeth <UNK> <UNK> how could _that_ be <UNK> how could his will be <UNK> <UNK> why did not you seek <UNK> <UNK> <UNK> <UNK> was just such an <UNK> in the terms of the <UNK> as to give me no hope from law </s>	1.5848931924611136
+<s> do not let us <UNK> about the past </s>	10.000000000000002
+<s> <UNK> <UNK> did not you all learn <UNK> you ought all to have <UNK> </s>	4.216965034285822
+<s> he was seriously concerned <UNK> that a cause of so little advantage to any one <UNK> should be <UNK> at the <UNK> expence of his brother in law <UNK> and he was determined <UNK> if possible <UNK> to find out the extent of his assistance <UNK> and to <UNK> the obligation as soon as he could </s>	1.4873521072935114
+<s> <UNK> <UNK> such cases <UNK> a woman has not often much beauty to think of </s>	3.874675120456131
+<s> <UNK> <UNK> what did she say <UNK> <UNK> you were gone into the <UNK> <UNK> and she was afraid had not turned out well </s>	2.4244620170823286
+<s> <UNK> elizabeth assured him that she could suit herself perfectly with those in the room </s>	3.874675120456131
+<s> colonel fitzwilliam was no longer an object </s>	12.915496650148839
+<s> it was reasonable that he should feel he had been wrong <UNK> he had <UNK> <UNK> and he had the means of <UNK> it <UNK> and though she would not place herself as his principal <UNK> <UNK> she could <UNK> perhaps <UNK> believe <UNK> that remaining partiality for her <UNK> might assist his endeavours in a cause where her peace of mind must be <UNK> concerned </s>	1.4030037231905736
+<s> first <UNK> that you will allow me the free use of my understanding on the present occasion <UNK> and <UNK> <UNK> of my room </s>	2.4244620170823286
+<s> <UNK> to <UNK> evils is the duty of us all <UNK> the peculiar duty of a young man who has been so fortunate as i have been in early <UNK> <UNK> and i trust i am resigned </s>	1.8047217668271704
+<s> bennet <UNK> as the carriage drove up to the door <UNK> her husband looked <UNK> grave <UNK> her daughters <UNK> alarmed <UNK> anxious <UNK> uneasy </s>	2.346228848142263
+<s> mrs </s>	2154.4346900318833
+<s> the dinner was as well dressed as any i ever saw </s>	5.878016072274913
+<s> <UNK> to catherine and lydia <UNK> neither the letter nor its <UNK> were in any degree interesting </s>	3.3598182862837818
+<s> the particulars <UNK> i reserve till we meet </s>	10.000000000000002
+<s> <UNK> that knows what his <UNK> have been <UNK> can help feeling an interest in him <UNK> <UNK> <UNK> <UNK> repeated darcy <UNK> <UNK> <UNK> <UNK> his <UNK> have been great indeed </s>	1.9684194472866121
+<s> she now lost every expectation of pleasure </s>	12.915496650148839
+<s> the whole family in short were properly <UNK> on the occasion </s>	5.878016072274913
+<s> wickham had accepted their uncle <UNK> invitation <UNK> and was then in the house </s>	4.216965034285822
+<s> the younger <UNK> out before the elder are married <UNK> your younger sisters must be very young <UNK> <UNK> <UNK> my youngest is not sixteen </s>	2.346228848142263
+<s> mr </s>	2154.4346900318833
+<s> <UNK> <UNK> <UNK> sir <UNK> but i do not know when _that_ will be </s>	4.216965034285822
+<s> the coach <UNK> therefore <UNK> took them the first <UNK> of their journey <UNK> and brought its master back to longbourn </s>	2.7213387683753076
+<s> mr </s>	2154.4346900318833
+<s> darcy looked <UNK> therefore <UNK> she could not tell </s>	8.111308307896872
+<s> though mr </s>	316.22776601683796
+<s> in short <UNK> my dear aunt <UNK> i should be very sorry to be the means of making any of you unhappy <UNK> but since we see every day that where there is affection <UNK> young people are seldom <UNK> by immediate want of fortune <UNK> from entering into engagements with each other <UNK> how can i promise to be <UNK> than so many of my fellow <UNK> if i am tempted <UNK> or how am i even to know that it would be <UNK> to <UNK> <UNK> all that i can promise you <UNK> therefore <UNK> is not to be in a hurry </s>	1.242623671911505
+<s> the idea soon reached to conviction <UNK> as she observed his increasing civilities <UNK> herself <UNK> and heard his frequent attempt at a compliment on her wit and <UNK> <UNK> and though more astonished than gratified herself <UNK> by this effect of her <UNK> <UNK> it was not long before her mother gave her to understand that the probability of their marriage was exceedingly agreeable to _her_ </s>	1.396135390856794
+<s> bingley did not take the house so much for the <UNK> of the neighbourhood as for his own <UNK> and we must expect him to keep or quit it on the same <UNK> </s>	1.93069772888325
+<s> _you_ wish to think all the world respectable <UNK> and are hurt if i speak ill of any body </s>	2.99357729472049
+<s> <UNK> want to know <UNK> said she <UNK> with a countenance no less smiling than her sister <UNK> <UNK> <UNK> you have learnt about mr </s>	2.346228848142263
+<s> she danced four dances with him at meryton <UNK> she saw him one morning at his own house <UNK> and has since dined in company with him four times </s>	2.1017480113324885
+<s> darcy </s>	2154.4346900318833
+<s> <UNK> <UNK> must give me leave to flatter myself <UNK> my dear cousin <UNK> that your refusal of my addresses is merely words of course </s>	2.346228848142263
+<s> i am not particularly speaking of such a case as you have supposed about mr </s>	3.874675120456131
+<s> i see the imprudence of it </s>	17.78279410038923
+<s> end of <UNK> </s>	100.00000000000004
+<s> but as no such delicacy <UNK> her mother <UNK> an hour seldom passed in which she did not talk of bingley <UNK> express her impatience for his arrival <UNK> or even <UNK> jane to confess that if he did not come back <UNK> she should think herself very ill used </s>	1.5570684047537309
+<s> how long has she been such a favourite <UNK> and pray when am i to wish you joy <UNK> <UNK> is exactly the question which i expected you to ask </s>	2.0535250264571463
+<s> they agree with me in <UNK> that this false step in one daughter <UNK> will be <UNK> to the <UNK> of all the others <UNK> for who <UNK> as lady catherine herself <UNK> says <UNK> will <UNK> themselves with such a family </s>	1.6876124757881479
+<s> but i can assure the young ladies that i come prepared to admire them </s>	4.216965034285822
+<s> his plan did not <UNK> on seeing them </s>	10.000000000000002
+<s> gardiner it had a <UNK> strong <UNK> </s>	12.915496650148839
+<s> <UNK> certainly is a most <UNK> affair <UNK> said mr </s>	6.812920690579612
+<s> bingley by a <UNK> <UNK> and some time afterwards from the two elegant ladies who waited on his sisters </s>	2.99357729472049
+<s> at length <UNK> however <UNK> our kind friend <UNK> the wished for direction </s>	4.641588833612779
+<s> elizabeth <UNK> to whom jane very soon <UNK> the chief of all this <UNK> heard it in silent indignation </s>	2.99357729472049
+<s> collins was only a clergyman <UNK> and it affected them in no other way than as a piece of news to <UNK> at meryton </s>	2.4244620170823286
+<s> his <UNK> them was a <UNK> advantage <UNK> she felt all the compliment it offered to herself <UNK> and it was most acceptable as an occasion of <UNK> him to her father and mother </s>	1.8957356524063758
+<s> <UNK> <UNK> catherine has been of <UNK> use <UNK> which ought to make her happy <UNK> for she <UNK> to be of use </s>	2.51188643150958
+<s> how wickham and lydia were to be <UNK> in tolerable independence <UNK> she could not imagine </s>	3.593813663804627
+<s> their society can afford no pleasure <UNK> that will <UNK> for such <UNK> as this <UNK> let me never see either one or the other again <UNK> yet the misery <UNK> for which years of happiness were to offer no <UNK> <UNK> received soon afterwards material relief <UNK> from observing how much the beauty of her sister re <UNK> the admiration of her former <UNK> </s>	1.41011239906908
+<s> she had <UNK> private intelligence that mr </s>	12.915496650148839
+<s> from their <UNK> <UNK> they have been intended for each other </s>	5.878016072274913
+<s> bennet <UNK> and which she never <UNK> to <UNK> as a most <UNK> falsehood </s>	4.216965034285822
+<s> i am <UNK> even than jane <UNK> she only smiles <UNK> i laugh </s>	4.641588833612779
+<s> bingley <UNK> when <UNK> by jane <UNK> had long ago <UNK> his <UNK> in the affair <UNK> that proud and <UNK> as were his manners <UNK> she had never <UNK> in the whole course of their acquaintance <UNK> an acquaintance which had <UNK> brought them much together <UNK> and given her a sort of intimacy with his <UNK> <UNK> seen any thing that <UNK> him to be <UNK> or <UNK> any thing that spoke him of <UNK> or <UNK> <UNK> </s>	1.324192791886045
+<s> with respect to wickham <UNK> the <UNK> soon found that he was not <UNK> there in much <UNK> <UNK> for though the chief of his concerns <UNK> with the son of his <UNK> <UNK> were <UNK> understood <UNK> it was yet a well known fact that <UNK> on his quitting derbyshire <UNK> he had left many debts behind him <UNK> which mr </s>	1.4330125702369627
+<s> darcy <UNK> <UNK> are generally long <UNK> but whether always charming <UNK> it is not for me to determine </s>	2.99357729472049
+<s> pride <UNK> prejudice </s>	100.00000000000004
+<s> astonishment <UNK> apprehension <UNK> and even <UNK> <UNK> <UNK> her </s>	6.812920690579612
+<s> the respect created by the conviction of his valuable qualities <UNK> though at first <UNK> admitted <UNK> had for some time ceased to be <UNK> to her feelings <UNK> and it was now heightened into somewhat of a <UNK> nature <UNK> by the <UNK> so highly in his favour <UNK> and bringing forward his disposition in so amiable a light <UNK> which yesterday had produced </s>	1.41011239906908
+<s> he <UNK> <UNK> and <UNK> <UNK> and makes love to us all </s>	5.179474679231211
+<s> gardiner looked at her niece with a smile <UNK> but elizabeth could not return it </s>	3.874675120456131
+<s> bennet <UNK> to whose <UNK> they all <UNK> <UNK> after a few minutes conversation together <UNK> received them exactly as might be expected <UNK> with tears and <UNK> of regret <UNK> <UNK> against the <UNK> conduct of wickham <UNK> and <UNK> of her own <UNK> and ill <UNK> <UNK> <UNK> every body but the person to whose ill <UNK> indulgence the <UNK> of her daughter must be <UNK> <UNK> </s>	1.3830728955554412
+<s> she declared her resolution </s>	46.415888336127786
+<s> on the stairs were a <UNK> of little <UNK> and girls <UNK> whose eagerness for their cousin <UNK> appearance would not allow them to wait in the drawing room <UNK> and whose <UNK> <UNK> as they had not seen her for a twelvemonth <UNK> prevented their coming <UNK> </s>	1.5848931924611136
+<s> it <UNK> because of the <UNK> of <UNK> of volunteers and donations from people in all <UNK> of life </s>	2.99357729472049
+<s> he had to be sure done much </s>	12.915496650148839
+<s> they have known her much longer than they have known me <UNK> no wonder if they love her better </s>	2.99357729472049
+<s> she is all <UNK> and condescension <UNK> and i doubt not but you will be honoured with some <UNK> of her notice when service is over </s>	2.2758459260747883
+<s> elizabeth blushed and blushed again with shame and vexation </s>	8.111308307896872
+<s> <UNK> <UNK> have a house in town <UNK> i <UNK> <UNK> mr </s>	5.179474679231211
+<s> <UNK> elizabeth was exceedingly pleased with this proposal <UNK> and felt persuaded of her sister <UNK> ready <UNK> </s>	3.1622776601683795
+<s> we may <UNK> our different opinions </s>	17.78279410038923
+<s> <UNK> before they were <UNK> by the conclusion of the play <UNK> she had the unexpected happiness of an invitation to <UNK> her uncle and aunt in a tour of pleasure which they <UNK> taking in the summer </s>	1.778279410038923
+<s> <UNK> <UNK> do not believe a word of it <UNK> my dear </s>	5.179474679231211
+<s> mrs </s>	2154.4346900318833
+<s> the <UNK> was <UNK> to a turn and <UNK> said <UNK> they never saw so <UNK> a <UNK> </s>	3.1622776601683795
+<s> <UNK> chapter <UNK> </s>	100.00000000000004
+<s> i never heard of her <UNK> till the day before yesterday </s>	5.878016072274913
+<s> <UNK> <UNK> do not think we were speaking at all </s>	6.812920690579612
+<s> bingley <UNK> chaise to go to meryton <UNK> and the <UNK> have no horses to <UNK> </s>	3.593813663804627
+<s> <UNK> was <UNK> he knew <UNK> <UNK> acquainted with wickham <UNK> and he went to her for intelligence of him <UNK> as soon as he got to town </s>	2.154434690031884
+<s> a few days after this visit <UNK> mr </s>	10.000000000000002
+<s> till i have your disposition <UNK> your goodness <UNK> i never can have your happiness </s>	3.874675120456131
+<s> <UNK> have <UNK> me <UNK> in every possible method </s>	8.111308307896872
+<s> pride <UNK> more to our opinion of ourselves <UNK> vanity to what we would have others think of us </s>	2.99357729472049
+<s> but in spite of all this fine talking <UNK> my dear lizzy <UNK> you may rest perfectly assured <UNK> that your uncle would never have <UNK> <UNK> if we had not given him credit for <UNK> <UNK> in the affair </s>	1.7301957388458942
+<s> after sitting long enough to admire every <UNK> of furniture in the room <UNK> from the <UNK> to the <UNK> <UNK> to give an account of their journey and of all that had happened in london <UNK> mr </s>	1.778279410038923
+<s> if gratitude and esteem are good <UNK> of affection <UNK> elizabeth <UNK> change of sentiment will be neither improbable nor <UNK> </s>	2.7213387683753076
+<s> <UNK> mr </s>	316.22776601683796
+<s> <UNK> in darcy <UNK> presence she dared not mention wickham <UNK> name <UNK> but elizabeth instantly <UNK> that he was <UNK> in her thoughts <UNK> and the various recollections connected with him gave her a moment <UNK> distress <UNK> but <UNK> <UNK> herself <UNK> to <UNK> the ill natured <UNK> <UNK> she <UNK> answered the question in a tolerably <UNK> tone </s>	1.4412195967188537
+<s> <UNK> then <UNK> <UNK> in elizabeth no inclination of <UNK> <UNK> she added <UNK> <UNK> as the event must be for lydia <UNK> we may draw from it this useful <UNK> <UNK> that loss of virtue in a female is <UNK> that one false step <UNK> her in <UNK> <UNK> that her <UNK> is no less <UNK> than it is beautiful <UNK> and that she cannot be too much guarded in her behaviour towards the <UNK> of the other sex </s>	1.324192791886045
+<s> <UNK> <UNK> i long to see her again <UNK> i never met with anybody who delighted me so much </s>	2.99357729472049
+<s> she could not imagine what business he could have in town so soon after his arrival in hertfordshire <UNK> and she began to fear that he might be always <UNK> about from one place to another <UNK> and never settled at netherfield as he ought to be </s>	1.599858719606058
+<s> but above all <UNK> above respect and esteem <UNK> there was a motive within her of good will which could not be <UNK> </s>	2.51188643150958
+<s> <UNK> <UNK> my word <UNK> said her ladyship <UNK> <UNK> give your opinion very <UNK> for so young a person </s>	2.848035868435802
+<s> hurst were going out </s>	46.415888336127786
+<s> they are all for what they can get </s>	10.000000000000002
+<s> the <UNK> contained a <UNK> of elegant <UNK> little <UNK> <UNK> <UNK> paper <UNK> well <UNK> with a lady <UNK> fair <UNK> <UNK> hand <UNK> and elizabeth saw her sister <UNK> countenance change as she read it <UNK> and saw her dwelling <UNK> on some particular <UNK> </s>	1.599858719606058
+<s> elizabeth had not before believed him quite equal to such assurance <UNK> but she sat down <UNK> resolving within herself <UNK> to draw no <UNK> in future to the <UNK> of an <UNK> man </s>	1.8957356524063758
+<s> but really <UNK> ma <UNK> <UNK> i think it would be very hard upon younger sisters <UNK> that they should not have their share of society and amusement because the elder may not have the means or inclination to marry early </s>	1.7082763938087104
+<s> to fortune i am perfectly indifferent <UNK> and shall make no <UNK> of that nature on your father <UNK> since i am well aware that it could not be <UNK> with <UNK> and that one thousand pounds in the <UNK> <UNK> <UNK> <UNK> </s>	1.6681005372000588
+<s> <UNK> <UNK> that his design in <UNK> here <UNK> <UNK> <UNK> nonsense <UNK> how can you talk so <UNK> but it is very likely that he <UNK> fall in love with one of them <UNK> and therefore you must visit him as soon as he comes </s>	1.615598098439874
+<s> far be it from me <UNK> he <UNK> continued in a voice that marked his displeasure <UNK> <UNK> <UNK> the behaviour of your daughter </s>	2.4244620170823286
+<s> a lively <UNK> soon settled it all </s>	12.915496650148839
+<s> <UNK> this was not very <UNK> to mrs </s>	10.000000000000002
+<s> <UNK> <UNK> mr </s>	100.00000000000004
+<s> <UNK> has our directions <UNK> and all will be <UNK> in a week </s>	4.641588833612779
+<s> i am glad he <UNK> here on tuesday </s>	10.000000000000002
+<s> it would have been strange if they had </s>	10.000000000000002
+<s> you have <UNK> the advantages <UNK> which you must know to have been <UNK> for him </s>	3.593813663804627
+<s> as they walked home <UNK> elizabeth related to jane what she had seen pass between the two gentlemen <UNK> but though jane would have <UNK> either or both <UNK> had they appeared to be wrong <UNK> she could no more explain such behaviour than her sister </s>	1.615598098439874
+<s> <UNK> never allow yourself to be <UNK> by prejudice <UNK> <UNK> hope not </s>	4.641588833612779
+<s> it is too long ago </s>	26.826957952797255
+<s> i cannot understand it </s>	46.415888336127786
+<s> and mrs </s>	316.22776601683796
+<s> bennet <UNK> as soon as they were out of the house <UNK> <UNK> ever i saw </s>	3.593813663804627
+<s> darcy </s>	2154.4346900318833
+<s> bennet <UNK> with more <UNK> than politeness <UNK> protested he must be entirely mistaken <UNK> and lydia <UNK> always <UNK> and often <UNK> <UNK> <UNK> exclaimed <UNK> <UNK> lord <UNK> sir william <UNK> how can you tell such a story <UNK> do not you know that mr </s>	1.599858719606058
+<s> <UNK> <UNK> do you mean <UNK> <UNK> <UNK> i must confess <UNK> that i love him better than i do bingley </s>	2.7213387683753076
+<s> bennet before breakfast <UNK> a conversation beginning with his parsonage house <UNK> and <UNK> naturally to the <UNK> of his hopes <UNK> that a mistress for it might be found at longbourn <UNK> produced from her <UNK> <UNK> very <UNK> smiles and general encouragement <UNK> a <UNK> against the very jane he had fixed on </s>	1.4977474763452012
+<s> and on the gentlemen <UNK> approaching <UNK> one of the girls moved <UNK> to her than ever <UNK> and said <UNK> in a whisper <UNK> <UNK> men <UNK> <UNK> come and part us <UNK> i am determined </s>	1.8047217668271704
+<s> take your choice <UNK> but you must be satisfied with only one </s>	5.179474679231211
+<s> she wished him to know that she had been assured of his absence before she came to the place <UNK> and accordingly began by observing <UNK> that his arrival had been very unexpected <UNK> your housekeeper <UNK> she added <UNK> <UNK> us that you would certainly not be here till to morrow <UNK> and indeed <UNK> before we left <UNK> <UNK> we understood that you were not immediately expected in the country </s>	1.365007806546014
+<s> <UNK> must go instantly to my mother <UNK> she cried </s>	6.812920690579612
+<s> the officers may not be so pleasant in general <UNK> regiment </s>	5.878016072274913
+<s> she was <UNK> of having performed her duty <UNK> and to <UNK> over <UNK> evils <UNK> or <UNK> them by anxiety <UNK> was no part of her disposition </s>	2.154434690031884
+<s> long does not come back till the day before <UNK> so <UNK> it will be impossible for her to introduce him <UNK> for she will not know him herself </s>	2.1017480113324885
+<s> mr </s>	2154.4346900318833
+<s> _that_ is my idea of good breeding <UNK> and those persons who fancy themselves very important and never open their <UNK> <UNK> quite mistake the matter </s>	2.2758459260747883
+<s> <UNK> but its volunteers and <UNK> are <UNK> <UNK> <UNK> <UNK> </s>	5.878016072274913
+<s> <UNK> <UNK> should like it beyond any thing <UNK> said her mother </s>	5.179474679231211
+<s> charlotte had seen them from her husband <UNK> room <UNK> <UNK> the road <UNK> and immediately running into the other <UNK> told the girls what an honour they might expect <UNK> <UNK> <UNK> <UNK> may thank you <UNK> eliza <UNK> for this piece of civility </s>	1.632172128563275
+<s> mr </s>	2154.4346900318833
+<s> come as soon as you can on the <UNK> of this </s>	5.878016072274913
+<s> <UNK> he should be particularly happy at any time <UNK> <UNK> </s>	5.878016072274913
+<s> e </s>	2154.4346900318833
+<s> bennet <UNK> as he <UNK> up the letter </s>	10.000000000000002
+<s> let me do it without farther loss of time </s>	8.111308307896872
+<s> f </s>	2154.4346900318833
+<s> <UNK> <UNK> <UNK> thought elizabeth <UNK> <UNK> she <UNK> to <UNK> </s>	5.878016072274913
+<s> hurst and miss bingley had spent some hours of the morning with the <UNK> <UNK> who continued <UNK> though <UNK> <UNK> to <UNK> <UNK> and in the evening elizabeth joined their party in the drawing room </s>	1.8329807108324359
+<s> mr </s>	2154.4346900318833
+<s> collins <UNK> she addressed a variety of questions to maria and elizabeth <UNK> but especially to the latter <UNK> of whose connections she knew the least <UNK> and who she observed to mrs </s>	1.93069772888325
+<s> <UNK> after many <UNK> and many <UNK> of other subjects <UNK> elizabeth could not help <UNK> once more to the first <UNK> and saying <UNK> <UNK> am astonished at his intimacy with mr </s>	1.93069772888325
+<s> tell him what a dreadful state i am in <UNK> that i am frightened out of my <UNK> <UNK> and have such <UNK> <UNK> such <UNK> <UNK> all over me <UNK> such <UNK> in my side <UNK> and <UNK> in my head <UNK> and such <UNK> at heart <UNK> that i can get no rest by night nor by day </s>	1.4497406703726319
+<s> <UNK> <UNK> this <UNK> thought elizabeth <UNK> <UNK> for me <UNK> and she coloured at the idea <UNK> but <UNK> <UNK> herself <UNK> said in a lively tone <UNK> <UNK> pray <UNK> what is the usual <UNK> of an <UNK> <UNK> younger son <UNK> unless the elder brother is very <UNK> <UNK> i suppose you would not ask above fifty thousand pounds </s>	1.4330125702369627
+<s> <UNK> <UNK> if you have got them to day <UNK> said elizabeth <UNK> <UNK> mother <UNK> purpose will be answered </s>	2.848035868435802
+<s> bennet at conversation <UNK> and by so doing <UNK> threw a <UNK> over the whole party <UNK> which was very little relieved by the long <UNK> of mr </s>	2.154434690031884
+<s> but in what <UNK> it should be <UNK> amongst the latter <UNK> <UNK> on the will of the parents </s>	2.99357729472049
+<s> see <UNK> <UNK> </s>	100.00000000000004
+<s> <UNK> <UNK> </s>	316.22776601683796
+<s> <UNK> is indeed but considering the <UNK> <UNK> my dear miss eliza <UNK> we cannot wonder at his <UNK> <UNK> for who would object to such a partner <UNK> elizabeth looked <UNK> <UNK> and turned away </s>	1.8329807108324359
+<s> the reason of this sudden removal was soon evident </s>	8.111308307896872
+<s> <UNK> cannot be more than twenty <UNK> i am sure <UNK> therefore you need not conceal your age </s>	3.1622776601683795
+<s> wickham and herself </s>	100.00000000000004
+<s> it gives me pain to speak ill of a darcy </s>	6.812920690579612
+<s> it is evident that you <UNK> to the first <UNK> </s>	6.812920690579612
+<s> i wonder who first discovered the <UNK> of <UNK> in <UNK> away love <UNK> <UNK> have been used to consider <UNK> as the <UNK> of love <UNK> said darcy </s>	2.1017480113324885
+<s> come <UNK> kitty <UNK> i want you up stairs </s>	8.111308307896872
